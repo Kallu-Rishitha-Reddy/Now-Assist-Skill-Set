@@ -1,0 +1,1252 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2024-10-15 19:38:25">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Sentiment Analysis Lab</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>479ca6c1eb9512108c58f55cbad0cd3a</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>ae243ac9ebd512108c58f55cbad0cdc3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_feature_c0ad22c5eb9512108c58f55cbad0cd6d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="one_api_feature"><one_api_feature action="INSERT_OR_UPDATE"><input_processor display_value="OneExtendGenericCapabilityRequestProcessor">a7eb538353111110c271ddeeff7b12a8</input_processor><name>a5d3dae1a3d20210883c25d1d71e6108</name><output_processor/><short_description>Auto Generated </short_description><sys_class_name>one_api_feature</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:09:49</sys_created_on><sys_id>c0ad22c5eb9512108c58f55cbad0cd6d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>a5d3dae1a3d20210883c25d1d71e6108</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>one_api_feature_c0ad22c5eb9512108c58f55cbad0cd6d</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:09:49</sys_updated_on></one_api_feature></record_update>]]></payload>
+<payload_hash>-2105324961</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>26243ac9ebd512108c58f55cbad0cdc5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919627ef0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>a5d3dae1a3d20210883c25d1d71e6108</target_name>
+<type>One API Feature</type>
+<update_domain>global</update_domain>
+<update_guid>44ad22c5e095121005ac3d1c256dee6e</update_guid>
+<update_guid_history>44ad22c5e095121005ac3d1c256dee6e:-2105324961</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_feature_48ad22c5eb9512108c58f55cbad0cd68</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="one_api_feature"><one_api_feature action="INSERT_OR_UPDATE"><input_processor display_value="OneExtendGenericCapabilityRequestProcessor">a7eb538353111110c271ddeeff7b12a8</input_processor><name>3601262ba3d64210883c25d1d71e615c</name><output_processor/><short_description>Auto Generated </short_description><sys_class_name>one_api_feature</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:09:49</sys_created_on><sys_id>48ad22c5eb9512108c58f55cbad0cd68</sys_id><sys_mod_count>0</sys_mod_count><sys_name>3601262ba3d64210883c25d1d71e615c</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>one_api_feature_48ad22c5eb9512108c58f55cbad0cd68</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:09:49</sys_updated_on></one_api_feature></record_update>]]></payload>
+<payload_hash>-530052797</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>2a243ac9ebd512108c58f55cbad0cdc4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919627a80000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>3601262ba3d64210883c25d1d71e615c</target_name>
+<type>One API Feature</type>
+<update_domain>global</update_domain>
+<update_guid>c8ad22c51a9512101f936f8fc9afb569</update_guid>
+<update_guid_history>c8ad22c51a9512101f936f8fc9afb569:-530052797</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_feature_provider_c0ad22c5eb9512108c58f55cbad0cd75</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="one_api_feature_provider"&gt;&lt;one_api_feature_provider action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;feature display_value="8cfd644f7ffe02100a03b6257d8665c8"&gt;84ad22c5eb9512108c58f55cbad0cd4d&lt;/feature&gt;&lt;feature_service display_value="OneExtendGenericProvider"&gt;5233278353111110c271ddeeff7b129b&lt;/feature_service&gt;&lt;feature_service_factory&gt;&lt;![CDATA[(function() { return new global.OneExtendGenericProvider(); })()]]&gt;&lt;/feature_service_factory&gt;&lt;name&gt;Fluency Metric provider&lt;/name&gt;&lt;short_description&gt;Auto Generated &lt;/short_description&gt;&lt;sys_class_name&gt;one_api_feature_provider&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:09:50&lt;/sys_created_on&gt;&lt;sys_id&gt;c0ad22c5eb9512108c58f55cbad0cd75&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Fluency Metric provider&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;one_api_feature_provider_c0ad22c5eb9512108c58f55cbad0cd75&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:09:50&lt;/sys_updated_on&gt;&lt;type&gt;FDIH Subflow&lt;/type&gt;&lt;type_document display_value="Azure OpenAI Chat Completions"&gt;a55c1c6f530221106b38ddeeff7b12b1&lt;/type_document&gt;&lt;/one_api_feature_provider&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1935292064</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>32243ac9ebd512108c58f55cbad0cdc6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919629e10000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>Fluency Metric provider</target_name>
+<type>One API Feature Provider</type>
+<update_domain>global</update_domain>
+<update_guid>14ad22c5229512105b1d9dd3b6bd9d76</update_guid>
+<update_guid_history>14ad22c5229512105b1d9dd3b6bd9d76:1935292064</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_definition_attribute_6b2de645eb9512108c58f55cbad0cd95</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_attribute"><sys_one_extend_definition_attribute action="INSERT_OR_UPDATE"><active>true</active><apply_filter>false</apply_filter><attribute_label/><capability display_value="Sentiment Analysis">d72de645eb9512108c58f55cbad0cd00</capability><choice_list/><contains_large_input>false</contains_large_input><data_type>string</data_type><default_value/><definition/><description>Provider name</description><hidden>false</hidden><label>provider</label><mandatory>false</mandatory><name>provider</name><order>100</order><schema/><sys_class_name>sys_one_extend_definition_attribute</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:07:53</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6b2de645eb9512108c58f55cbad0cd95</sys_id><sys_mod_count>0</sys_mod_count><sys_name>provider</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_one_extend_definition_attribute_6b2de645eb9512108c58f55cbad0cd95</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:07:53</sys_updated_on><translate>false</translate><truncate>false</truncate><type>output</type></sys_one_extend_definition_attribute><sys_translated_text action="delete_multiple" query="documentkey=6b2de645eb9512108c58f55cbad0cd95"/></record_update>]]></payload>
+<payload_hash>-2109814189</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>32243ac9ebd512108c58f55cbad0cdf0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919460bc0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>provider</target_name>
+<type>OneExtend Capability Attribute</type>
+<update_domain>global</update_domain>
+<update_guid>2f2de6451295121086a5bdc2ff4b7396</update_guid>
+<update_guid_history>2f2de6451295121086a5bdc2ff4b7396:-2109814189</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_service_plan_feature_d4ad22c5eb9512108c58f55cbad0cd9b</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="one_api_service_plan_feature"&gt;&lt;one_api_service_plan_feature action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applicability_condition/&gt;&lt;applicability_condition_table/&gt;&lt;applicability_script&gt;&lt;![CDATA[(function(featureInput, previousFeatureOutputs) {
+ /* customize condition logic here, return true or false */
+  if (typeof featureInput === "string") {
+ featureInput = JSON.parse(featureInput);
+    }
+
+    var metrics = featureInput &amp;&amp; featureInput._meta &amp;&amp; featureInput._meta.evaluationDetails &amp;&amp; featureInput._meta.evaluationDetails.metrics;
+
+    return metrics &amp;&amp; metrics.indexOf("63015aeda3920210883c25d1d71e6124") !== -1; //check for capability id of the metric
+})(featureInput, previousFeatureOutputs);]]&gt;&lt;/applicability_script&gt;&lt;applicability_type&gt;script&lt;/applicability_type&gt;&lt;delay_output_processing&gt;false&lt;/delay_output_processing&gt;&lt;depends_on/&gt;&lt;depends_on_list&gt;10ad22c5eb9512108c58f55cbad0cd7f&lt;/depends_on_list&gt;&lt;error_policy&gt;continue_service_plan_execution&lt;/error_policy&gt;&lt;feature display_value="a5d3dae1a3d20210883c25d1d71e6108"&gt;c0ad22c5eb9512108c58f55cbad0cd6d&lt;/feature&gt;&lt;return_request&gt;false&lt;/return_request&gt;&lt;service_plan display_value="___$y$t3m_bu1163r___-1b2de645eb9512108c58f55cbad0cd0b, 8cfd644f7ffe02100a03b6257d8665c8, 3601262ba3d64210883c25d1d71e615c, cbf929b27fe242100a03b6257d866548, a5d3dae1a3d20210883c25d1d71e6108-default"&gt;10ad22c5eb9512108c58f55cbad0cd7c&lt;/service_plan&gt;&lt;sys_class_name&gt;one_api_service_plan_feature&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:09:50&lt;/sys_created_on&gt;&lt;sys_id&gt;d4ad22c5eb9512108c58f55cbad0cd9b&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;___$y$t3m_bu1163r___-1b2de645eb9512108c58f55cbad0cd0b, 8cfd644f7ffe02100a03b6257d8665c8, 3601262ba3d64210883c25d1d71e615c, cbf929b27fe242100a03b6257d866548, a5d3dae1a3d20210883c25d1d71e6108-default: a5d3dae1a3d20210883c25d1d71e6108&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;one_api_service_plan_feature_d4ad22c5eb9512108c58f55cbad0cd9b&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:09:50&lt;/sys_updated_on&gt;&lt;timeout_policy&gt;continue_service_plan_execution&lt;/timeout_policy&gt;&lt;timeout_sec&gt;60&lt;/timeout_sec&gt;&lt;/one_api_service_plan_feature&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-253426698</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>36243ac9ebd512108c58f55cbad0cdc8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19291962af70000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>___$y$t3m_bu1163r___-1b2de645eb9512108c58f55cbad0cd0b, 8cfd644f7ffe02100a03b6257d8665c8, 3601262ba3d</target_name>
+<type>One API Service Plan Feature</type>
+<update_domain>global</update_domain>
+<update_guid>98ad22c5239512107351e9772f14d09c</update_guid>
+<update_guid_history>98ad22c5239512107351e9772f14d09c:-253426698</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_capability_d72de645eb9512108c58f55cbad0cd00</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_capability"><sys_one_extend_capability action="INSERT_OR_UPDATE"><active>true</active><description>Sentiment Analysis</description><external>true</external><name>Sentiment Analysis</name><sys_class_name>sys_one_extend_capability</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:07:51</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d72de645eb9512108c58f55cbad0cd00</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Sentiment Analysis</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_one_extend_capability_d72de645eb9512108c58f55cbad0cd00</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:07:51</sys_updated_on><type>skill</type></sys_one_extend_capability><sys_translated_text action="delete_multiple" query="documentkey=d72de645eb9512108c58f55cbad0cd00"/></record_update>]]></payload>
+<payload_hash>-2015320404</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>36243ac9ebd512108c58f55cbad0cdef</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19291945c840000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>Sentiment Analysis</target_name>
+<type>OneExtend Capability</type>
+<update_domain>global</update_domain>
+<update_guid>972de645939512107a715db820343c03</update_guid>
+<update_guid_history>972de645939512107a715db820343c03:-2015320404</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_service_plan_feature_12ae22c9eb9512108c58f55cbad0cd00</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="one_api_service_plan_feature"&gt;&lt;one_api_service_plan_feature action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applicability_condition/&gt;&lt;applicability_condition_table/&gt;&lt;applicability_script&gt;&lt;![CDATA[(function(featureInput, previousFeatureOutputs) {  
+	/* customize condition logic here, return true or false */  
+	return true;
+  })(featureInput, previousFeatureOutputs);]]&gt;&lt;/applicability_script&gt;&lt;applicability_type&gt;script&lt;/applicability_type&gt;&lt;delay_output_processing&gt;false&lt;/delay_output_processing&gt;&lt;depends_on/&gt;&lt;depends_on_list/&gt;&lt;error_policy&gt;continue_service_plan_execution&lt;/error_policy&gt;&lt;feature display_value="b943b4f6872c0210fa6ecbfc0ebb35d5"&gt;42aeee89eb9512108c58f55cbad0cdf6&lt;/feature&gt;&lt;return_request&gt;false&lt;/return_request&gt;&lt;service_plan display_value="___$y$t3m_bu1163r___-b943b4f6872c0210fa6ecbfc0ebb35d5-default"&gt;deaeee89eb9512108c58f55cbad0cdfc&lt;/service_plan&gt;&lt;sys_class_name&gt;one_api_service_plan_feature&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:14:20&lt;/sys_created_on&gt;&lt;sys_id&gt;12ae22c9eb9512108c58f55cbad0cd00&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;___$y$t3m_bu1163r___-b943b4f6872c0210fa6ecbfc0ebb35d5-default: b943b4f6872c0210fa6ecbfc0ebb35d5&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;one_api_service_plan_feature_12ae22c9eb9512108c58f55cbad0cd00&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:14:20&lt;/sys_updated_on&gt;&lt;timeout_policy&gt;continue_service_plan_execution&lt;/timeout_policy&gt;&lt;timeout_sec&gt;60&lt;/timeout_sec&gt;&lt;/one_api_service_plan_feature&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1897437627</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>3a243ac9ebd512108c58f55cbad0cdc7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919a4a580000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>___$y$t3m_bu1163r___-b943b4f6872c0210fa6ecbfc0ebb35d5-default: b943b4f6872c0210fa6ecbfc0ebb35d5</target_name>
+<type>One API Service Plan Feature</type>
+<update_domain>global</update_domain>
+<update_guid>1eae22c965951210f3385078d5a46d1a</update_guid>
+<update_guid_history>1eae22c965951210f3385078d5a46d1a:-1897437627</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_generative_ai_config_672de645eb9512108c58f55cbad0cd55</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_generative_ai_config"><sys_generative_ai_config action="INSERT_OR_UPDATE"><active>true</active><additional_configurations>{}</additional_configurations><definition>1b2de645eb9512108c58f55cbad0cd0b</definition><definition_table>sys_one_extend_capability_definition</definition_table><max_tokens>1000</max_tokens><min_word_count>-1</min_word_count><model>llm_generic</model><name>Prompt name</name><parent/><prompt>Analyze the sentiment of the incident given SHORT_DESCRIPTION, DESCRIPTION, PRIORITY, STATE and ACTIVITIES.
+
+{{incident.short_description}}{{incident.description}}{{incident.priority}}{{incident.state}}{{incident.work_notes_list}}
+
+Just return back the sentiment of this incident as an output with the following format. Do not say anything before or after the JSON {"Sentiment": }</prompt><prompt_template_role>user</prompt_template_role><request_tokens>6942</request_tokens><state>published</state><sys_class_name>sys_generative_ai_config</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:07:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>672de645eb9512108c58f55cbad0cd55</sys_id><sys_mod_count>3</sys_mod_count><sys_name>1b2de645eb9512108c58f55cbad0cd0b</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_generative_ai_config_672de645eb9512108c58f55cbad0cd55</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:12:47</sys_updated_on><temperature>0.2</temperature><version>1</version></sys_generative_ai_config></record_update>]]></payload>
+<payload_hash>289353129</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>3a243ac9ebd512108c58f55cbad0cdee</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1929198dd160000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>1b2de645eb9512108c58f55cbad0cd0b</target_name>
+<type>Generative AI Configuration</type>
+<update_domain>global</update_domain>
+<update_guid>174ee2491b951210b5816207c678f349</update_guid>
+<update_guid_history>174ee2491b951210b5816207c678f349:289353129,600eee853f9512106455eafa0be4912f:1102039058,fe9d2a856d9512103b36304fcb11265e:-1044066025,6b2de6459195121013979296caee4a68:1767874741</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ux_form_action_173ee249eb9512108c58f55cbad0cdc1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_form_action"><sys_ux_form_action action="INSERT_OR_UPDATE"><action_type>ui_action</action_type><active>true</active><declarative_action/><description/><name>Sentiment Analysis</name><specificity>20</specificity><sys_class_name>sys_ux_form_action</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:12:30</sys_created_on><sys_id>173ee249eb9512108c58f55cbad0cdc1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Sentiment Analysis</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ux_form_action_173ee249eb9512108c58f55cbad0cdc1</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:12:30</sys_updated_on><table>incident</table><ui_action display_value="Sentiment Analysis">173ee249eb9512108c58f55cbad0cdbc</ui_action></sys_ux_form_action><sys_translated_text action="delete_multiple" query="documentkey=173ee249eb9512108c58f55cbad0cdc1"/></record_update>]]></payload>
+<payload_hash>-2091675250</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>3a243ac9ebd512108c58f55cbad0cdf1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19291989be20000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table>incident</table>
+<target_name>Sentiment Analysis</target_name>
+<type>UX Form Actions</type>
+<update_domain>global</update_domain>
+<update_guid>533ee249b7951210410f8c3614756cc3</update_guid>
+<update_guid_history>533ee249b7951210410f8c3614756cc3:-2091675250</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_service_plan_10ad22c5eb9512108c58f55cbad0cd7c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="one_api_service_plan"><one_api_service_plan action="INSERT_OR_UPDATE"><active>true</active><input_processor/><name>___$y$t3m_bu1163r___-1b2de645eb9512108c58f55cbad0cd0b, 8cfd644f7ffe02100a03b6257d8665c8, 3601262ba3d64210883c25d1d71e615c, cbf929b27fe242100a03b6257d866548, a5d3dae1a3d20210883c25d1d71e6108-default</name><output_processor display_value="OneExtendOutputProcessor">250bd34353111110c271ddeeff7b12da</output_processor><sys_class_name>one_api_service_plan</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:09:50</sys_created_on><sys_id>10ad22c5eb9512108c58f55cbad0cd7c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>___$y$t3m_bu1163r___-1b2de645eb9512108c58f55cbad0cd0b, 8cfd644f7ffe02100a03b6257d8665c8, 3601262ba3d64210883c25d1d71e615c, cbf929b27fe242100a03b6257d866548, a5d3dae1a3d20210883c25d1d71e6108-default</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>one_api_service_plan_10ad22c5eb9512108c58f55cbad0cd7c</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:09:50</sys_updated_on><timeout_ms>60000</timeout_ms></one_api_service_plan></record_update>]]></payload>
+<payload_hash>-977020309</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>3e243ac9ebd512108c58f55cbad0cdc6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19291962a810000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>___$y$t3m_bu1163r___-1b2de645eb9512108c58f55cbad0cd0b, 8cfd644f7ffe02100a03b6257d8665c8, 3601262ba3d</target_name>
+<type>One API Service Plan</type>
+<update_domain>global</update_domain>
+<update_guid>1cad22c572951210299edff5751b557d</update_guid>
+<update_guid_history>1cad22c572951210299edff5751b557d:-977020309</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_definition_config_5f2de645eb9512108c58f55cbad0cd4b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_config"><sys_one_extend_definition_config action="INSERT_OR_UPDATE"><active>true</active><capability display_value="Sentiment Analysis">d72de645eb9512108c58f55cbad0cd00</capability><default>true</default><definition display_value="Sentiment Analysis">1b2de645eb9512108c58f55cbad0cd0b</definition><enable_large_input_support>false</enable_large_input_support><sys_class_name>sys_one_extend_definition_config</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:07:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5f2de645eb9512108c58f55cbad0cd4b</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_one_extend_definition_config_5f2de645eb9512108c58f55cbad0cd4b</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:07:52</sys_updated_on></sys_one_extend_definition_config></record_update>]]></payload>
+<payload_hash>-565454936</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>3e243ac9ebd512108c58f55cbad0cdf0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19291945e0a0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name/>
+<type>OneExtend Definition Config</type>
+<update_domain>global</update_domain>
+<update_guid>6b2de645af951210a91b582c76fe1f53</update_guid>
+<update_guid_history>6b2de645af951210a91b582c76fe1f53:-565454936,d32de645c695121092c29c0421f5c64e:1144528193</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_feature_8cad22c5eb9512108c58f55cbad0cd6a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="one_api_feature"><one_api_feature action="INSERT_OR_UPDATE"><input_processor display_value="OneExtendGenericCapabilityRequestProcessor">a7eb538353111110c271ddeeff7b12a8</input_processor><name>cbf929b27fe242100a03b6257d866548</name><output_processor/><short_description>Auto Generated </short_description><sys_class_name>one_api_feature</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:09:49</sys_created_on><sys_id>8cad22c5eb9512108c58f55cbad0cd6a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>cbf929b27fe242100a03b6257d866548</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>one_api_feature_8cad22c5eb9512108c58f55cbad0cd6a</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:09:49</sys_updated_on></one_api_feature></record_update>]]></payload>
+<payload_hash>303358375</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>62243ac9ebd512108c58f55cbad0cdc5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919627c90000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>cbf929b27fe242100a03b6257d866548</target_name>
+<type>One API Feature</type>
+<update_domain>global</update_domain>
+<update_guid>00ad22c5fb951210c486ba689a102d6c</update_guid>
+<update_guid_history>00ad22c5fb951210c486ba689a102d6c:303358375</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_feature_42aeee89eb9512108c58f55cbad0cdf6</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="one_api_feature"><one_api_feature action="INSERT_OR_UPDATE"><input_processor display_value="OneExtendGenericCapabilityRequestProcessor">a7eb538353111110c271ddeeff7b12a8</input_processor><name>b943b4f6872c0210fa6ecbfc0ebb35d5</name><output_processor/><short_description>Auto Generated </short_description><sys_class_name>one_api_feature</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:14:20</sys_created_on><sys_id>42aeee89eb9512108c58f55cbad0cdf6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>b943b4f6872c0210fa6ecbfc0ebb35d5</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>one_api_feature_42aeee89eb9512108c58f55cbad0cdf6</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:14:20</sys_updated_on></one_api_feature></record_update>]]></payload>
+<payload_hash>-249099233</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>66243ac9ebd512108c58f55cbad0cdc4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919a49b50000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>b943b4f6872c0210fa6ecbfc0ebb35d5</target_name>
+<type>One API Feature</type>
+<update_domain>global</update_domain>
+<update_guid>42aeee89be95121008baa7652317a4f8</update_guid>
+<update_guid_history>42aeee89be95121008baa7652317a4f8:-249099233</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_service_plan_feature_90ad22c5eb9512108c58f55cbad0cda0</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="one_api_service_plan_feature"&gt;&lt;one_api_service_plan_feature action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applicability_condition/&gt;&lt;applicability_condition_table/&gt;&lt;applicability_script&gt;&lt;![CDATA[(function(featureInput, previousFeatureOutputs) {
+ /* customize condition logic here, return true or false */
+  if (typeof featureInput === "string") {
+ featureInput = JSON.parse(featureInput);
+    }
+
+    var metrics = featureInput &amp;&amp; featureInput._meta &amp;&amp; featureInput._meta.evaluationDetails &amp;&amp; featureInput._meta.evaluationDetails.metrics;
+
+    return metrics &amp;&amp; metrics.indexOf("605d6c0f7ffe02100a03b6257d8665d3") !== -1; //check for capability id of the metric
+})(featureInput, previousFeatureOutputs);]]&gt;&lt;/applicability_script&gt;&lt;applicability_type&gt;script&lt;/applicability_type&gt;&lt;delay_output_processing&gt;false&lt;/delay_output_processing&gt;&lt;depends_on/&gt;&lt;depends_on_list&gt;10ad22c5eb9512108c58f55cbad0cd7f&lt;/depends_on_list&gt;&lt;error_policy&gt;continue_service_plan_execution&lt;/error_policy&gt;&lt;feature display_value="8cfd644f7ffe02100a03b6257d8665c8"&gt;84ad22c5eb9512108c58f55cbad0cd4d&lt;/feature&gt;&lt;return_request&gt;false&lt;/return_request&gt;&lt;service_plan display_value="___$y$t3m_bu1163r___-1b2de645eb9512108c58f55cbad0cd0b, 8cfd644f7ffe02100a03b6257d8665c8, 3601262ba3d64210883c25d1d71e615c, cbf929b27fe242100a03b6257d866548, a5d3dae1a3d20210883c25d1d71e6108-default"&gt;10ad22c5eb9512108c58f55cbad0cd7c&lt;/service_plan&gt;&lt;sys_class_name&gt;one_api_service_plan_feature&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:09:50&lt;/sys_created_on&gt;&lt;sys_id&gt;90ad22c5eb9512108c58f55cbad0cda0&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;___$y$t3m_bu1163r___-1b2de645eb9512108c58f55cbad0cd0b, 8cfd644f7ffe02100a03b6257d8665c8, 3601262ba3d64210883c25d1d71e615c, cbf929b27fe242100a03b6257d866548, a5d3dae1a3d20210883c25d1d71e6108-default: 8cfd644f7ffe02100a03b6257d8665c8&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;one_api_service_plan_feature_90ad22c5eb9512108c58f55cbad0cda0&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:09:50&lt;/sys_updated_on&gt;&lt;timeout_policy&gt;continue_service_plan_execution&lt;/timeout_policy&gt;&lt;timeout_sec&gt;60&lt;/timeout_sec&gt;&lt;/one_api_service_plan_feature&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1807930549</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>72243ac9ebd512108c58f55cbad0cdc8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19291962b4b0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>___$y$t3m_bu1163r___-1b2de645eb9512108c58f55cbad0cd0b, 8cfd644f7ffe02100a03b6257d8665c8, 3601262ba3d</target_name>
+<type>One API Service Plan Feature</type>
+<update_domain>global</update_domain>
+<update_guid>14ad22c548951210261be7b401315ba1</update_guid>
+<update_guid_history>14ad22c548951210261be7b401315ba1:-1807930549</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_gen_ai_strategy_mapping_932de645eb9512108c58f55cbad0cd08</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_gen_ai_strategy_mapping"><sys_gen_ai_strategy_mapping action="INSERT_OR_UPDATE"><active>true</active><feature display_value="Sentiment Analysis">9f2de645eb9512108c58f55cbad0cd04</feature><strategy>CAPABILITY_EXECUTION</strategy><sys_class_name>sys_gen_ai_strategy_mapping</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:07:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>932de645eb9512108c58f55cbad0cd08</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CAPABILITY_EXECUTION</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_gen_ai_strategy_mapping_932de645eb9512108c58f55cbad0cd08</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:07:52</sys_updated_on></sys_gen_ai_strategy_mapping></record_update>]]></payload>
+<payload_hash>195359825</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>72243ac9ebd512108c58f55cbad0cdef</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19291945d1f0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>CAPABILITY_EXECUTION</target_name>
+<type>Generative AI Strategy Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>532de645729512104c6a8a93d88e610a</update_guid>
+<update_guid_history>532de645729512104c6a8a93d88e610a:195359825</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_service_plan_feature_10ad22c5eb9512108c58f55cbad0cd7f</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="one_api_service_plan_feature"&gt;&lt;one_api_service_plan_feature action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applicability_condition/&gt;&lt;applicability_condition_table/&gt;&lt;applicability_script&gt;&lt;![CDATA[(function(featureInput, previousFeatureOutputs) {  
+	/* customize condition logic here, return true or false */  
+	return true;
+  })(featureInput, previousFeatureOutputs);]]&gt;&lt;/applicability_script&gt;&lt;applicability_type&gt;script&lt;/applicability_type&gt;&lt;delay_output_processing&gt;false&lt;/delay_output_processing&gt;&lt;depends_on/&gt;&lt;depends_on_list/&gt;&lt;error_policy&gt;continue_service_plan_execution&lt;/error_policy&gt;&lt;feature display_value="1b2de645eb9512108c58f55cbad0cd0b"&gt;04ad22c5eb9512108c58f55cbad0cd4a&lt;/feature&gt;&lt;return_request&gt;false&lt;/return_request&gt;&lt;service_plan display_value="___$y$t3m_bu1163r___-1b2de645eb9512108c58f55cbad0cd0b, 8cfd644f7ffe02100a03b6257d8665c8, 3601262ba3d64210883c25d1d71e615c, cbf929b27fe242100a03b6257d866548, a5d3dae1a3d20210883c25d1d71e6108-default"&gt;10ad22c5eb9512108c58f55cbad0cd7c&lt;/service_plan&gt;&lt;sys_class_name&gt;one_api_service_plan_feature&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:09:50&lt;/sys_created_on&gt;&lt;sys_id&gt;10ad22c5eb9512108c58f55cbad0cd7f&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;___$y$t3m_bu1163r___-1b2de645eb9512108c58f55cbad0cd0b, 8cfd644f7ffe02100a03b6257d8665c8, 3601262ba3d64210883c25d1d71e615c, cbf929b27fe242100a03b6257d866548, a5d3dae1a3d20210883c25d1d71e6108-default: 1b2de645eb9512108c58f55cbad0cd0b&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;one_api_service_plan_feature_10ad22c5eb9512108c58f55cbad0cd7f&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:09:50&lt;/sys_updated_on&gt;&lt;timeout_policy&gt;continue_service_plan_execution&lt;/timeout_policy&gt;&lt;timeout_sec&gt;60&lt;/timeout_sec&gt;&lt;/one_api_service_plan_feature&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1581822133</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>76243ac9ebd512108c58f55cbad0cdc7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19291962acb0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>___$y$t3m_bu1163r___-1b2de645eb9512108c58f55cbad0cd0b, 8cfd644f7ffe02100a03b6257d8665c8, 3601262ba3d</target_name>
+<type>One API Service Plan Feature</type>
+<update_domain>global</update_domain>
+<update_guid>90ad22c597951210959670da9c71619a</update_guid>
+<update_guid_history>90ad22c597951210959670da9c71619a:1581822133</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sn_nowassist_skill_family_263e6a09eb9512108c58f55cbad0cdcb</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sn_nowassist_skill_family"&gt;&lt;sn_nowassist_skill_family action="INSERT_OR_UPDATE"&gt;&lt;category&gt;custom&lt;/category&gt;&lt;description&gt;&lt;![CDATA[Sentiment Analysis]]&gt;&lt;/description&gt;&lt;image_url&gt;images/custom-feature-image.svg&lt;/image_url&gt;&lt;name&gt;Sentiment Analysis&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;parent display_value="ITSM"&gt;1ebe4cd7a320311079f66bcf26fcda0f&lt;/parent&gt;&lt;preview_image&gt;images/custom-feature-background-image.svg&lt;/preview_image&gt;&lt;sub_title/&gt;&lt;sys_class_name&gt;sn_nowassist_skill_family&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:12:27&lt;/sys_created_on&gt;&lt;sys_id&gt;263e6a09eb9512108c58f55cbad0cdcb&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Sentiment Analysis&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sn_nowassist_skill_family_263e6a09eb9512108c58f55cbad0cdcb&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:12:27&lt;/sys_updated_on&gt;&lt;type&gt;feature&lt;/type&gt;&lt;/sn_nowassist_skill_family&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=263e6a09eb9512108c58f55cbad0cdcb"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1457929200</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>76243ac9ebd512108c58f55cbad0cdee</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1929198911e0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>Sentiment Analysis</target_name>
+<type>Now Assist Skill Family</type>
+<update_domain>global</update_domain>
+<update_guid>a63e6a09ce951210de26543607ac01cd</update_guid>
+<update_guid_history>a63e6a09ce951210de26543607ac01cd:-1457929200</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_action_173ee249eb9512108c58f55cbad0cdbc</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_action"&gt;&lt;sys_ui_action action="INSERT_OR_UPDATE"&gt;&lt;action_name/&gt;&lt;active&gt;true&lt;/active&gt;&lt;client&gt;false&lt;/client&gt;&lt;client_script_v2/&gt;&lt;comments/&gt;&lt;condition&gt;new sn_nowassist_admin.NowAssistSkillConfig().isSkillConfigurationActive('272de645eb9512108c58f55cbad0cda0')&lt;/condition&gt;&lt;form_action&gt;true&lt;/form_action&gt;&lt;form_button&gt;true&lt;/form_button&gt;&lt;form_button_v2&gt;true&lt;/form_button_v2&gt;&lt;form_context_menu&gt;false&lt;/form_context_menu&gt;&lt;form_link&gt;false&lt;/form_link&gt;&lt;form_menu_button_v2&gt;false&lt;/form_menu_button_v2&gt;&lt;form_style/&gt;&lt;format_for_configurable_workspace&gt;false&lt;/format_for_configurable_workspace&gt;&lt;hint/&gt;&lt;isolate_script&gt;false&lt;/isolate_script&gt;&lt;list_action&gt;false&lt;/list_action&gt;&lt;list_banner_button&gt;false&lt;/list_banner_button&gt;&lt;list_button&gt;false&lt;/list_button&gt;&lt;list_choice&gt;false&lt;/list_choice&gt;&lt;list_context_menu&gt;false&lt;/list_context_menu&gt;&lt;list_link&gt;false&lt;/list_link&gt;&lt;list_save_with_form_button&gt;false&lt;/list_save_with_form_button&gt;&lt;list_style/&gt;&lt;messages/&gt;&lt;name&gt;Sentiment Analysis&lt;/name&gt;&lt;onclick/&gt;&lt;order&gt;100&lt;/order&gt;&lt;script&gt;&lt;![CDATA[var inputsPayload = {};
+// incident is a input of type: glide_record
+inputsPayload['incident'] = {
+  tableName: 'incident',
+  sysId: current.getValue('sys_id'),
+  queryString: ''
+};
+
+var request = {
+	executionRequests: [{
+		payload: inputsPayload,
+		capabilityId: 'd72de645eb9512108c58f55cbad0cd00',
+		meta: {
+			skillConfigId: '272de645eb9512108c58f55cbad0cda0'
+		}
+	}], 
+	mode: 'sync' 
+};
+
+try {
+	gs.addInfoMessage(JSON.stringify(sn_one_extend.OneExtendUtil.execute(request)));
+} catch(e) {
+	gs.error(e);
+	gs.addErrorMessage('Something went wrong while executing skill.');
+}
+action.setRedirectURL(current);]]&gt;&lt;/script&gt;&lt;show_insert&gt;true&lt;/show_insert&gt;&lt;show_multiple_update&gt;false&lt;/show_multiple_update&gt;&lt;show_query&gt;false&lt;/show_query&gt;&lt;show_update&gt;true&lt;/show_update&gt;&lt;sys_class_name&gt;sys_ui_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:12:30&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;173ee249eb9512108c58f55cbad0cdbc&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Sentiment Analysis&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_action_173ee249eb9512108c58f55cbad0cdbc&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:13:40&lt;/sys_updated_on&gt;&lt;table&gt;incident&lt;/table&gt;&lt;ui11_compatible&gt;true&lt;/ui11_compatible&gt;&lt;ui16_compatible&gt;false&lt;/ui16_compatible&gt;&lt;/sys_ui_action&gt;&lt;/record_update&gt;</payload>
+<payload_hash>696882955</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>76243ac9ebd512108c58f55cbad0cdf1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1929199ae280000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table>incident</table>
+<target_name>Sentiment Analysis</target_name>
+<type>UI Action</type>
+<update_domain>global</update_domain>
+<update_guid>648e6289549512109a9cbf08f6408ae3</update_guid>
+<update_guid_history>648e6289549512109a9cbf08f6408ae3:696882955,df3ee249ed951210de90632b0844c6bf:2133037880</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_feature_provider_d4ad22c5eb9512108c58f55cbad0cd77</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="one_api_feature_provider"&gt;&lt;one_api_feature_provider action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;feature display_value="1b2de645eb9512108c58f55cbad0cd0b"&gt;04ad22c5eb9512108c58f55cbad0cd4a&lt;/feature&gt;&lt;feature_service display_value="OneExtendGenericProvider"&gt;5233278353111110c271ddeeff7b129b&lt;/feature_service&gt;&lt;feature_service_factory&gt;&lt;![CDATA[(function() { return new global.OneExtendGenericProvider(); })()]]&gt;&lt;/feature_service_factory&gt;&lt;name&gt;Sentiment Analysis provider&lt;/name&gt;&lt;short_description&gt;Auto Generated &lt;/short_description&gt;&lt;sys_class_name&gt;one_api_feature_provider&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:09:50&lt;/sys_created_on&gt;&lt;sys_id&gt;d4ad22c5eb9512108c58f55cbad0cd77&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Sentiment Analysis provider&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;one_api_feature_provider_d4ad22c5eb9512108c58f55cbad0cd77&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:09:50&lt;/sys_updated_on&gt;&lt;type&gt;FDIH Subflow&lt;/type&gt;&lt;type_document display_value="Now LLM Integration"&gt;936e514a53b3b110f028ddeeff7b128c&lt;/type_document&gt;&lt;/one_api_feature_provider&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-2044899977</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>7a243ac9ebd512108c58f55cbad0cdc6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19291962a0c0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>Sentiment Analysis provider</target_name>
+<type>One API Feature Provider</type>
+<update_domain>global</update_domain>
+<update_guid>58ad22c5a995121064d5b154f9ae3d78</update_guid>
+<update_guid_history>58ad22c5a995121064d5b154f9ae3d78:-2044899977</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_definition_attribute_ef2de645eb9512108c58f55cbad0cd97</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_attribute"><sys_one_extend_definition_attribute action="INSERT_OR_UPDATE"><active>true</active><apply_filter>false</apply_filter><attribute_label/><capability display_value="Sentiment Analysis">d72de645eb9512108c58f55cbad0cd00</capability><choice_list/><contains_large_input>false</contains_large_input><data_type>string</data_type><default_value/><definition/><description>Response Text</description><hidden>false</hidden><label>response</label><mandatory>false</mandatory><name>response</name><order>100</order><schema/><sys_class_name>sys_one_extend_definition_attribute</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:07:53</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ef2de645eb9512108c58f55cbad0cd97</sys_id><sys_mod_count>0</sys_mod_count><sys_name>response</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_one_extend_definition_attribute_ef2de645eb9512108c58f55cbad0cd97</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:07:53</sys_updated_on><translate>false</translate><truncate>false</truncate><type>output</type></sys_one_extend_definition_attribute><sys_translated_text action="delete_multiple" query="documentkey=ef2de645eb9512108c58f55cbad0cd97"/></record_update>]]></payload>
+<payload_hash>362353905</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>7a243ac9ebd512108c58f55cbad0cdf0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919460de0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>response</target_name>
+<type>OneExtend Capability Attribute</type>
+<update_domain>global</update_domain>
+<update_guid>a32de6454d951210789b25e9d154aa99</update_guid>
+<update_guid_history>a32de6454d951210789b25e9d154aa99:362353905</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_feature_provider_8aaeee89eb9512108c58f55cbad0cdf9</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="one_api_feature_provider"&gt;&lt;one_api_feature_provider action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;feature display_value="b943b4f6872c0210fa6ecbfc0ebb35d5"&gt;42aeee89eb9512108c58f55cbad0cdf6&lt;/feature&gt;&lt;feature_service display_value="OneExtendGenericProvider"&gt;5233278353111110c271ddeeff7b129b&lt;/feature_service&gt;&lt;feature_service_factory&gt;&lt;![CDATA[(function() { return new global.OneExtendGenericProvider(); })()]]&gt;&lt;/feature_service_factory&gt;&lt;name&gt;Record Summarization provider&lt;/name&gt;&lt;short_description&gt;Auto Generated &lt;/short_description&gt;&lt;sys_class_name&gt;one_api_feature_provider&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:14:20&lt;/sys_created_on&gt;&lt;sys_id&gt;8aaeee89eb9512108c58f55cbad0cdf9&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Record Summarization provider&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;one_api_feature_provider_8aaeee89eb9512108c58f55cbad0cdf9&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:14:20&lt;/sys_updated_on&gt;&lt;type&gt;FDIH Subflow&lt;/type&gt;&lt;type_document display_value="Now LLM Integration"&gt;936e514a53b3b110f028ddeeff7b128c&lt;/type_document&gt;&lt;/one_api_feature_provider&gt;&lt;/record_update&gt;</payload>
+<payload_hash>862469604</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>7e243ac9ebd512108c58f55cbad0cdc5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919a49f50000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>Record Summarization provider</target_name>
+<type>One API Feature Provider</type>
+<update_domain>global</update_domain>
+<update_guid>9aaeee8974951210750adc90fb7735fb</update_guid>
+<update_guid_history>9aaeee8974951210750adc90fb7735fb:862469604</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sn_nowassist_skill_config_var_set_d33ee249eb9512108c58f55cbad0cdc5</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_nowassist_skill_config_var_set"><sn_nowassist_skill_config_var_set action="INSERT_OR_UPDATE"><config_type display_value="Skill builder Delivery step">7dfdff5893b64210aa5730f164891837</config_type><description/><hide_step>false</hide_step><name>__delivery_step__</name><order>100</order><parent/><screen_id/><screen_table>sys_ux_macroponent</screen_table><skill_config display_value="Sentiment Analysis">272de645eb9512108c58f55cbad0cda0</skill_config><step_completed>false</step_completed><sys_class_name>sn_nowassist_skill_config_var_set</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:12:30</sys_created_on><sys_domain>global</sys_domain><sys_domain_path/><sys_id>d33ee249eb9512108c58f55cbad0cdc5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>__delivery_step__</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sn_nowassist_skill_config_var_set_d33ee249eb9512108c58f55cbad0cdc5</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:12:30</sys_updated_on><title/><vars/></sn_nowassist_skill_config_var_set><sys_translated_text action="delete_multiple" query="documentkey=d33ee249eb9512108c58f55cbad0cdc5"/><sys_variable_value action="delete_multiple" query="document_key=d33ee249eb9512108c58f55cbad0cdc5"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sn_nowassist_skill_config_var_set</document><document_key>d33ee249eb9512108c58f55cbad0cdc5</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:12:30</sys_created_on><sys_id>1f3ee249eb9512108c58f55cbad0cdd3</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:12:30</sys_updated_on><value>0</value><variable display_value="Enable NAP">ab5ef79893b64210aa5730f16489185a</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sn_nowassist_skill_config_var_set</document><document_key>d33ee249eb9512108c58f55cbad0cdc5</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:12:30</sys_created_on><sys_id>5b3ee249eb9512108c58f55cbad0cdd3</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:12:30</sys_updated_on><value>173ee249eb9512108c58f55cbad0cdbc</value><variable display_value="UI Action Id">4fee37d893b64210aa5730f164891896</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sn_nowassist_skill_config_var_set</document><document_key>d33ee249eb9512108c58f55cbad0cdc5</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:12:30</sys_created_on><sys_id>df3ee249eb9512108c58f55cbad0cdd2</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:12:30</sys_updated_on><value>1</value><variable display_value="Enable UI Action">f09e3f9893b64210aa5730f16489189f</variable></sys_variable_value></record_update>]]></payload>
+<payload_hash>1850901892</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>7e243ac9ebd512108c58f55cbad0cdc8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19291989c890000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>__delivery_step__</target_name>
+<type>Now Assist Skill Config Var Set</type>
+<update_domain>global</update_domain>
+<update_guid>1f3ee249e49512100ede1fa039436bd5</update_guid>
+<update_guid_history>1f3ee249e49512100ede1fa039436bd5:1850901892</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_definition_attribute_232de645eb9512108c58f55cbad0cd6a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_attribute"><sys_one_extend_definition_attribute action="INSERT_OR_UPDATE"><active>true</active><apply_filter>false</apply_filter><attribute_label/><capability display_value="Sentiment Analysis">d72de645eb9512108c58f55cbad0cd00</capability><choice_list/><contains_large_input>false</contains_large_input><data_type>string</data_type><default_value/><definition/><description>Error Message</description><hidden>false</hidden><label>error</label><mandatory>false</mandatory><name>error</name><order>100</order><schema/><sys_class_name>sys_one_extend_definition_attribute</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:07:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>232de645eb9512108c58f55cbad0cd6a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>error</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_one_extend_definition_attribute_232de645eb9512108c58f55cbad0cd6a</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:07:52</sys_updated_on><translate>false</translate><truncate>false</truncate><type>output</type></sys_one_extend_definition_attribute><sys_translated_text action="delete_multiple" query="documentkey=232de645eb9512108c58f55cbad0cd6a"/></record_update>]]></payload>
+<payload_hash>-250492025</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>7e243ac9ebd512108c58f55cbad0cdef</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19291945f360000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>error</target_name>
+<type>OneExtend Capability Attribute</type>
+<update_domain>global</update_domain>
+<update_guid>ab2de6458b95121099c6671116121a6c</update_guid>
+<update_guid_history>ab2de6458b95121099c6671116121a6c:-250492025</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_feature_04ad22c5eb9512108c58f55cbad0cd4a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="one_api_feature"><one_api_feature action="INSERT_OR_UPDATE"><input_processor display_value="OneExtendGenericCapabilityRequestProcessor">a7eb538353111110c271ddeeff7b12a8</input_processor><name>1b2de645eb9512108c58f55cbad0cd0b</name><output_processor/><short_description>Auto Generated </short_description><sys_class_name>one_api_feature</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:09:49</sys_created_on><sys_id>04ad22c5eb9512108c58f55cbad0cd4a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1b2de645eb9512108c58f55cbad0cd0b</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>one_api_feature_04ad22c5eb9512108c58f55cbad0cd4a</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:09:49</sys_updated_on></one_api_feature></record_update>]]></payload>
+<payload_hash>-2000238817</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>a2243ac9ebd512108c58f55cbad0cdc4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919627640000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>1b2de645eb9512108c58f55cbad0cd0b</target_name>
+<type>One API Feature</type>
+<update_domain>global</update_domain>
+<update_guid>80ad22c5ac951210908f1d189661584c</update_guid>
+<update_guid_history>80ad22c5ac951210908f1d189661584c:-2000238817</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_feature_84ad22c5eb9512108c58f55cbad0cd4d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="one_api_feature"><one_api_feature action="INSERT_OR_UPDATE"><input_processor display_value="OneExtendGenericCapabilityRequestProcessor">a7eb538353111110c271ddeeff7b12a8</input_processor><name>8cfd644f7ffe02100a03b6257d8665c8</name><output_processor/><short_description>Auto Generated </short_description><sys_class_name>one_api_feature</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:09:49</sys_created_on><sys_id>84ad22c5eb9512108c58f55cbad0cd4d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>8cfd644f7ffe02100a03b6257d8665c8</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>one_api_feature_84ad22c5eb9512108c58f55cbad0cd4d</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:09:49</sys_updated_on></one_api_feature></record_update>]]></payload>
+<payload_hash>2026876693</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>ae243ac9ebd512108c58f55cbad0cdc4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919627890000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>8cfd644f7ffe02100a03b6257d8665c8</target_name>
+<type>One API Feature</type>
+<update_domain>global</update_domain>
+<update_guid>08ad22c5ce9512107be8a6a512d0474e</update_guid>
+<update_guid_history>08ad22c5ce9512107be8a6a512d0474e:2026876693</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_service_plan_deaeee89eb9512108c58f55cbad0cdfc</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="one_api_service_plan"><one_api_service_plan action="INSERT_OR_UPDATE"><active>true</active><input_processor/><name>___$y$t3m_bu1163r___-b943b4f6872c0210fa6ecbfc0ebb35d5-default</name><output_processor display_value="OneExtendOutputProcessor">250bd34353111110c271ddeeff7b12da</output_processor><sys_class_name>one_api_service_plan</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:14:20</sys_created_on><sys_id>deaeee89eb9512108c58f55cbad0cdfc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>___$y$t3m_bu1163r___-b943b4f6872c0210fa6ecbfc0ebb35d5-default</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>one_api_service_plan_deaeee89eb9512108c58f55cbad0cdfc</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:14:20</sys_updated_on><timeout_ms>60000</timeout_ms></one_api_service_plan></record_update>]]></payload>
+<payload_hash>-1194829045</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>b2243ac9ebd512108c58f55cbad0cdc7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919a4a230000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>___$y$t3m_bu1163r___-b943b4f6872c0210fa6ecbfc0ebb35d5-default</target_name>
+<type>One API Service Plan</type>
+<update_domain>global</update_domain>
+<update_guid>daaeee89ca95121011ec67fc703f04fe</update_guid>
+<update_guid_history>daaeee89ca95121011ec67fc703f04fe:-1194829045</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_eval_strategy_e32de645eb9512108c58f55cbad0cdb1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_eval_strategy"><sys_one_extend_eval_strategy action="INSERT_OR_UPDATE"><capability display_value="Sentiment Analysis">d72de645eb9512108c58f55cbad0cd00</capability><default>true</default><name>Default</name><skill_config_id>272de645eb9512108c58f55cbad0cda0</skill_config_id><sys_class_name>sys_one_extend_eval_strategy</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:07:53</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e32de645eb9512108c58f55cbad0cdb1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Default</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_one_extend_eval_strategy_e32de645eb9512108c58f55cbad0cdb1</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:07:53</sys_updated_on></sys_one_extend_eval_strategy></record_update>]]></payload>
+<payload_hash>-1719246534</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>b2243ac9ebd512108c58f55cbad0cdf1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919461d70000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>Default</target_name>
+<type>OneExtend Eval Strategy</type>
+<update_domain>global</update_domain>
+<update_guid>af2de645c4951210550e3805a6275eb2</update_guid>
+<update_guid_history>af2de645c4951210550e3805a6275eb2:-1719246534</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_feature_provider_cebea2c9eb9512108c58f55cbad0cda7</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="one_api_feature_provider"&gt;&lt;one_api_feature_provider action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;feature display_value="1b2de645eb9512108c58f55cbad0cd0b"&gt;4abea2c9eb9512108c58f55cbad0cda5&lt;/feature&gt;&lt;feature_service display_value="OneExtendGenericProvider"&gt;5233278353111110c271ddeeff7b129b&lt;/feature_service&gt;&lt;feature_service_factory&gt;&lt;![CDATA[(function() { return new global.OneExtendGenericProvider(); })()]]&gt;&lt;/feature_service_factory&gt;&lt;name&gt;Sentiment Analysis provider&lt;/name&gt;&lt;short_description&gt;Auto Generated &lt;/short_description&gt;&lt;sys_class_name&gt;one_api_feature_provider&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:14:36&lt;/sys_created_on&gt;&lt;sys_id&gt;cebea2c9eb9512108c58f55cbad0cda7&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Sentiment Analysis provider&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;one_api_feature_provider_cebea2c9eb9512108c58f55cbad0cda7&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:14:36&lt;/sys_updated_on&gt;&lt;type&gt;FDIH Subflow&lt;/type&gt;&lt;type_document display_value="Now LLM Integration"&gt;936e514a53b3b110f028ddeeff7b128c&lt;/type_document&gt;&lt;/one_api_feature_provider&gt;&lt;/record_update&gt;</payload>
+<payload_hash>2011944380</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>b6243ac9ebd512108c58f55cbad0cdc6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919a87990000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>Sentiment Analysis provider</target_name>
+<type>One API Feature Provider</type>
+<update_domain>global</update_domain>
+<update_guid>82bea2c963951210681819d42844c1a9</update_guid>
+<update_guid_history>82bea2c963951210681819d42844c1a9:2011944380</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_definition_attribute_af2de645eb9512108c58f55cbad0cd6d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_attribute"><sys_one_extend_definition_attribute action="INSERT_OR_UPDATE"><active>true</active><apply_filter>false</apply_filter><attribute_label/><capability display_value="Sentiment Analysis">d72de645eb9512108c58f55cbad0cd00</capability><choice_list/><contains_large_input>false</contains_large_input><data_type>string</data_type><default_value/><definition/><description>Error Code</description><hidden>false</hidden><label>errorCode</label><mandatory>false</mandatory><name>errorcode</name><order>100</order><schema/><sys_class_name>sys_one_extend_definition_attribute</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:07:53</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>af2de645eb9512108c58f55cbad0cd6d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>errorcode</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_one_extend_definition_attribute_af2de645eb9512108c58f55cbad0cd6d</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:07:53</sys_updated_on><translate>false</translate><truncate>false</truncate><type>output</type></sys_one_extend_definition_attribute><sys_translated_text action="delete_multiple" query="documentkey=af2de645eb9512108c58f55cbad0cd6d"/></record_update>]]></payload>
+<payload_hash>-474454790</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>b6243ac9ebd512108c58f55cbad0cdf0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919460760000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>errorcode</target_name>
+<type>OneExtend Capability Attribute</type>
+<update_domain>global</update_domain>
+<update_guid>a72de6456395121040ae15e424a7f594</update_guid>
+<update_guid_history>a72de6456395121040ae15e424a7f594:-474454790</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_feature_provider_1cad22c5eb9512108c58f55cbad0cd79</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="one_api_feature_provider"&gt;&lt;one_api_feature_provider action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;feature display_value="cbf929b27fe242100a03b6257d866548"&gt;8cad22c5eb9512108c58f55cbad0cd6a&lt;/feature&gt;&lt;feature_service display_value="OneExtendGenericProvider"&gt;5233278353111110c271ddeeff7b129b&lt;/feature_service&gt;&lt;feature_service_factory&gt;&lt;![CDATA[(function() { return new global.OneExtendGenericProvider(); })()]]&gt;&lt;/feature_service_factory&gt;&lt;name&gt;Correctness Metric provider&lt;/name&gt;&lt;short_description&gt;Auto Generated &lt;/short_description&gt;&lt;sys_class_name&gt;one_api_feature_provider&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:09:50&lt;/sys_created_on&gt;&lt;sys_id&gt;1cad22c5eb9512108c58f55cbad0cd79&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Correctness Metric provider&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;one_api_feature_provider_1cad22c5eb9512108c58f55cbad0cd79&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:09:50&lt;/sys_updated_on&gt;&lt;type&gt;FDIH Subflow&lt;/type&gt;&lt;type_document display_value="Azure OpenAI Chat Completions"&gt;a55c1c6f530221106b38ddeeff7b12b1&lt;/type_document&gt;&lt;/one_api_feature_provider&gt;&lt;/record_update&gt;</payload>
+<payload_hash>123524307</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>ba243ac9ebd512108c58f55cbad0cdc5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19291962a330000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>Correctness Metric provider</target_name>
+<type>One API Feature Provider</type>
+<update_domain>global</update_domain>
+<update_guid>5cad22c5d4951210de8f20e94e07597a</update_guid>
+<update_guid_history>5cad22c5d4951210de8f20e94e07597a:123524307</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sn_nowassist_skill_config_272de645eb9512108c58f55cbad0cda0</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sn_nowassist_skill_config"&gt;&lt;sn_nowassist_skill_config action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;description&gt;&lt;![CDATA[Sentiment Analysis]]&gt;&lt;/description&gt;&lt;in_product_active&gt;false&lt;/in_product_active&gt;&lt;in_product_roles/&gt;&lt;is_template&gt;false&lt;/is_template&gt;&lt;name&gt;Sentiment Analysis&lt;/name&gt;&lt;nap_skill_applicability/&gt;&lt;order&gt;100&lt;/order&gt;&lt;parent/&gt;&lt;skill_family display_value="Sentiment Analysis"&gt;263e6a09eb9512108c58f55cbad0cdcb&lt;/skill_family&gt;&lt;skill_id&gt;d72de645eb9512108c58f55cbad0cd00&lt;/skill_id&gt;&lt;skill_table&gt;sys_one_extend_capability&lt;/skill_table&gt;&lt;state&gt;1&lt;/state&gt;&lt;success_message/&gt;&lt;sys_class_name&gt;sn_nowassist_skill_config&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:07:53&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;272de645eb9512108c58f55cbad0cda0&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name&gt;Sentiment Analysis&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sn_nowassist_skill_config_272de645eb9512108c58f55cbad0cda0&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:13:45&lt;/sys_updated_on&gt;&lt;/sn_nowassist_skill_config&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=272de645eb9512108c58f55cbad0cda0"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-269830809</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>ba243ac9ebd512108c58f55cbad0cdc8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1929199c0670000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>Sentiment Analysis</target_name>
+<type>Now Assist Skill Config</type>
+<update_domain>global</update_domain>
+<update_guid>658e6289aa95121095cd9e7116fe9408</update_guid>
+<update_guid_history>658e6289aa95121095cd9e7116fe9408:-269830809,1f4ee649d6951210240f62247ac6b061:596500888,ea3ee249f59512108e92b1ca0fc6513d:1714681401,2f2de6450b95121067f1ac7c3183ceaf:-864269632</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_definition_attribute_227da285eb9512108c58f55cbad0cd70</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_attribute"><sys_one_extend_definition_attribute action="INSERT_OR_UPDATE"><active>true</active><apply_filter>false</apply_filter><attribute_label/><capability display_value="Sentiment Analysis">d72de645eb9512108c58f55cbad0cd00</capability><choice_list/><contains_large_input>false</contains_large_input><data_type>glide_record</data_type><default_value>INC0000009</default_value><definition/><description>Incident</description><hidden>false</hidden><label>Incident</label><mandatory>false</mandatory><name>incident</name><order>100</order><schema>{"tableName":"incident","sysId":"46b66a40a9fe198101f243dfbc79033d"}</schema><sys_class_name>sys_one_extend_definition_attribute</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:09:10</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>227da285eb9512108c58f55cbad0cd70</sys_id><sys_mod_count>0</sys_mod_count><sys_name>incident</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_one_extend_definition_attribute_227da285eb9512108c58f55cbad0cd70</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:09:10</sys_updated_on><translate>false</translate><truncate>false</truncate><type>input</type></sys_one_extend_definition_attribute><sys_translated_text action="delete_multiple" query="documentkey=227da285eb9512108c58f55cbad0cd70"/></record_update>]]></payload>
+<payload_hash>-1335331257</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>ba243ac9ebd512108c58f55cbad0cdef</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19291958ed80000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>incident</target_name>
+<type>OneExtend Capability Attribute</type>
+<update_domain>global</update_domain>
+<update_guid>6a7da28580951210ad5c3bac4d188071</update_guid>
+<update_guid_history>6a7da28580951210ad5c3bac4d188071:-1335331257</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_service_plan_feature_8abea2c9eb9512108c58f55cbad0cdac</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="one_api_service_plan_feature"&gt;&lt;one_api_service_plan_feature action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applicability_condition/&gt;&lt;applicability_condition_table/&gt;&lt;applicability_script&gt;&lt;![CDATA[(function(featureInput, previousFeatureOutputs) {  
+	/* customize condition logic here, return true or false */  
+	return true;
+  })(featureInput, previousFeatureOutputs);]]&gt;&lt;/applicability_script&gt;&lt;applicability_type&gt;script&lt;/applicability_type&gt;&lt;delay_output_processing&gt;false&lt;/delay_output_processing&gt;&lt;depends_on/&gt;&lt;depends_on_list/&gt;&lt;error_policy&gt;continue_service_plan_execution&lt;/error_policy&gt;&lt;feature display_value="1b2de645eb9512108c58f55cbad0cd0b"&gt;4abea2c9eb9512108c58f55cbad0cda5&lt;/feature&gt;&lt;return_request&gt;false&lt;/return_request&gt;&lt;service_plan display_value="___$y$t3m_bu1163r___-1b2de645eb9512108c58f55cbad0cd0b-default"&gt;46bea2c9eb9512108c58f55cbad0cdaa&lt;/service_plan&gt;&lt;sys_class_name&gt;one_api_service_plan_feature&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:14:36&lt;/sys_created_on&gt;&lt;sys_id&gt;8abea2c9eb9512108c58f55cbad0cdac&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;___$y$t3m_bu1163r___-1b2de645eb9512108c58f55cbad0cd0b-default: 1b2de645eb9512108c58f55cbad0cd0b&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;one_api_service_plan_feature_8abea2c9eb9512108c58f55cbad0cdac&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:14:36&lt;/sys_updated_on&gt;&lt;timeout_policy&gt;continue_service_plan_execution&lt;/timeout_policy&gt;&lt;timeout_sec&gt;60&lt;/timeout_sec&gt;&lt;/one_api_service_plan_feature&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1004907300</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>be243ac9ebd512108c58f55cbad0cdc7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919a87ea0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>___$y$t3m_bu1163r___-1b2de645eb9512108c58f55cbad0cd0b-default: 1b2de645eb9512108c58f55cbad0cd0b</target_name>
+<type>One API Service Plan Feature</type>
+<update_domain>global</update_domain>
+<update_guid>cebe26c9f19512108d4cd163c5501322</update_guid>
+<update_guid_history>cebe26c9f19512108d4cd163c5501322:1004907300</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_gen_ai_feature_mapping_9f2de645eb9512108c58f55cbad0cd04</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_gen_ai_feature_mapping"><sys_gen_ai_feature_mapping action="INSERT_OR_UPDATE"><active>true</active><customer_updatable>true</customer_updatable><document>d72de645eb9512108c58f55cbad0cd00</document><document_table>sys_one_extend_capability</document_table><feature_name>Sentiment Analysis</feature_name><licensable>true</licensable><skip_on_group_call>false</skip_on_group_call><sys_class_name>sys_gen_ai_feature_mapping</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:07:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9f2de645eb9512108c58f55cbad0cd04</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Sentiment Analysis</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_gen_ai_feature_mapping_9f2de645eb9512108c58f55cbad0cd04</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:07:52</sys_updated_on></sys_gen_ai_feature_mapping></record_update>]]></payload>
+<payload_hash>-170983998</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>be243ac9ebd512108c58f55cbad0cdee</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19291945ce40000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>Sentiment Analysis</target_name>
+<type>Generative AI Feature Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>9f2de645cd951210a01289b930e89706</update_guid>
+<update_guid_history>9f2de645cd951210a01289b930e89706:-170983998</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_feature_provider_08ad22c5eb9512108c58f55cbad0cd6f</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="one_api_feature_provider"&gt;&lt;one_api_feature_provider action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;feature display_value="a5d3dae1a3d20210883c25d1d71e6108"&gt;c0ad22c5eb9512108c58f55cbad0cd6d&lt;/feature&gt;&lt;feature_service display_value="OneExtendGenericProvider"&gt;5233278353111110c271ddeeff7b129b&lt;/feature_service&gt;&lt;feature_service_factory&gt;&lt;![CDATA[(function() { return new global.OneExtendGenericProvider(); })()]]&gt;&lt;/feature_service_factory&gt;&lt;name&gt;Faithfulness Metric provider&lt;/name&gt;&lt;short_description&gt;Auto Generated &lt;/short_description&gt;&lt;sys_class_name&gt;one_api_feature_provider&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:09:49&lt;/sys_created_on&gt;&lt;sys_id&gt;08ad22c5eb9512108c58f55cbad0cd6f&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Faithfulness Metric provider&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;one_api_feature_provider_08ad22c5eb9512108c58f55cbad0cd6f&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:09:49&lt;/sys_updated_on&gt;&lt;type&gt;FDIH Subflow&lt;/type&gt;&lt;type_document display_value="Azure OpenAI Chat Completions"&gt;a55c1c6f530221106b38ddeeff7b12b1&lt;/type_document&gt;&lt;/one_api_feature_provider&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-476443724</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>e6243ac9ebd512108c58f55cbad0cdc5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1929196282e0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>Faithfulness Metric provider</target_name>
+<type>One API Feature Provider</type>
+<update_domain>global</update_domain>
+<update_guid>88ad22c5f4951210afc1b4c054852d71</update_guid>
+<update_guid_history>88ad22c5f4951210afc1b4c054852d71:-476443724</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_feature_4abea2c9eb9512108c58f55cbad0cda5</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="one_api_feature"><one_api_feature action="INSERT_OR_UPDATE"><input_processor display_value="OneExtendGenericCapabilityRequestProcessor">a7eb538353111110c271ddeeff7b12a8</input_processor><name>1b2de645eb9512108c58f55cbad0cd0b</name><output_processor/><short_description>Auto Generated </short_description><sys_class_name>one_api_feature</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:14:36</sys_created_on><sys_id>4abea2c9eb9512108c58f55cbad0cda5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1b2de645eb9512108c58f55cbad0cd0b</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>one_api_feature_4abea2c9eb9512108c58f55cbad0cda5</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:14:36</sys_updated_on></one_api_feature></record_update>]]></payload>
+<payload_hash>-2000238817</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>ea243ac9ebd512108c58f55cbad0cdc4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919a87650000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>1b2de645eb9512108c58f55cbad0cd0b</target_name>
+<type>One API Feature</type>
+<update_domain>global</update_domain>
+<update_guid>0ebea2c9d29512102e8059aa695b50a6</update_guid>
+<update_guid_history>0ebea2c9d29512102e8059aa695b50a6:-2000238817</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_feature_provider_ccad22c5eb9512108c58f55cbad0cd72</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="one_api_feature_provider"&gt;&lt;one_api_feature_provider action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;feature display_value="3601262ba3d64210883c25d1d71e615c"&gt;48ad22c5eb9512108c58f55cbad0cd68&lt;/feature&gt;&lt;feature_service display_value="OneExtendGenericProvider"&gt;5233278353111110c271ddeeff7b129b&lt;/feature_service&gt;&lt;feature_service_factory&gt;&lt;![CDATA[(function() { return new global.OneExtendGenericProvider(); })()]]&gt;&lt;/feature_service_factory&gt;&lt;name&gt;Helpfulness Metric provider&lt;/name&gt;&lt;short_description&gt;Auto Generated &lt;/short_description&gt;&lt;sys_class_name&gt;one_api_feature_provider&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:09:50&lt;/sys_created_on&gt;&lt;sys_id&gt;ccad22c5eb9512108c58f55cbad0cd72&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Helpfulness Metric provider&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;one_api_feature_provider_ccad22c5eb9512108c58f55cbad0cd72&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:09:50&lt;/sys_updated_on&gt;&lt;type&gt;FDIH Subflow&lt;/type&gt;&lt;type_document display_value="Azure OpenAI Chat Completions"&gt;a55c1c6f530221106b38ddeeff7b12b1&lt;/type_document&gt;&lt;/one_api_feature_provider&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1826401937</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>f2243ac9ebd512108c58f55cbad0cdc6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919629ac0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>Helpfulness Metric provider</target_name>
+<type>One API Feature Provider</type>
+<update_domain>global</update_domain>
+<update_guid>00ad22c5d09512106023860a27e53f74</update_guid>
+<update_guid_history>00ad22c5d09512106023860a27e53f74:1826401937</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_definition_attribute_6f2de645eb9512108c58f55cbad0cd9d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_attribute"><sys_one_extend_definition_attribute action="INSERT_OR_UPDATE"><active>true</active><apply_filter>false</apply_filter><attribute_label/><capability display_value="Sentiment Analysis">d72de645eb9512108c58f55cbad0cd00</capability><choice_list/><contains_large_input>false</contains_large_input><data_type>string</data_type><default_value/><definition/><description>Status</description><hidden>false</hidden><label>status</label><mandatory>false</mandatory><name>status</name><order>100</order><schema/><sys_class_name>sys_one_extend_definition_attribute</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:07:53</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6f2de645eb9512108c58f55cbad0cd9d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>status</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_one_extend_definition_attribute_6f2de645eb9512108c58f55cbad0cd9d</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:07:53</sys_updated_on><translate>false</translate><truncate>false</truncate><type>output</type></sys_one_extend_definition_attribute><sys_translated_text action="delete_multiple" query="documentkey=6f2de645eb9512108c58f55cbad0cd9d"/></record_update>]]></payload>
+<payload_hash>1788096050</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>f2243ac9ebd512108c58f55cbad0cdf0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1929194613d0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>status</target_name>
+<type>OneExtend Capability Attribute</type>
+<update_domain>global</update_domain>
+<update_guid>232de64552951210f53f9e9e3200c09f</update_guid>
+<update_guid_history>232de64552951210f53f9e9e3200c09f:1788096050</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_service_plan_feature_d4ad22c5eb9512108c58f55cbad0cda2</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="one_api_service_plan_feature"&gt;&lt;one_api_service_plan_feature action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applicability_condition/&gt;&lt;applicability_condition_table/&gt;&lt;applicability_script&gt;&lt;![CDATA[(function(featureInput, previousFeatureOutputs) {
+ /* customize condition logic here, return true or false */
+  if (typeof featureInput === "string") {
+ featureInput = JSON.parse(featureInput);
+    }
+
+    var metrics = featureInput &amp;&amp; featureInput._meta &amp;&amp; featureInput._meta.evaluationDetails &amp;&amp; featureInput._meta.evaluationDetails.metrics;
+
+    return metrics &amp;&amp; metrics.indexOf("a28f0e067f0202105bc49fbefc8665ec") !== -1; //check for capability id of the metric
+})(featureInput, previousFeatureOutputs);]]&gt;&lt;/applicability_script&gt;&lt;applicability_type&gt;script&lt;/applicability_type&gt;&lt;delay_output_processing&gt;false&lt;/delay_output_processing&gt;&lt;depends_on/&gt;&lt;depends_on_list&gt;10ad22c5eb9512108c58f55cbad0cd7f&lt;/depends_on_list&gt;&lt;error_policy&gt;continue_service_plan_execution&lt;/error_policy&gt;&lt;feature display_value="cbf929b27fe242100a03b6257d866548"&gt;8cad22c5eb9512108c58f55cbad0cd6a&lt;/feature&gt;&lt;return_request&gt;false&lt;/return_request&gt;&lt;service_plan display_value="___$y$t3m_bu1163r___-1b2de645eb9512108c58f55cbad0cd0b, 8cfd644f7ffe02100a03b6257d8665c8, 3601262ba3d64210883c25d1d71e615c, cbf929b27fe242100a03b6257d866548, a5d3dae1a3d20210883c25d1d71e6108-default"&gt;10ad22c5eb9512108c58f55cbad0cd7c&lt;/service_plan&gt;&lt;sys_class_name&gt;one_api_service_plan_feature&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:09:50&lt;/sys_created_on&gt;&lt;sys_id&gt;d4ad22c5eb9512108c58f55cbad0cda2&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;___$y$t3m_bu1163r___-1b2de645eb9512108c58f55cbad0cd0b, 8cfd644f7ffe02100a03b6257d8665c8, 3601262ba3d64210883c25d1d71e615c, cbf929b27fe242100a03b6257d866548, a5d3dae1a3d20210883c25d1d71e6108-default: cbf929b27fe242100a03b6257d866548&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;one_api_service_plan_feature_d4ad22c5eb9512108c58f55cbad0cda2&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:09:50&lt;/sys_updated_on&gt;&lt;timeout_policy&gt;continue_service_plan_execution&lt;/timeout_policy&gt;&lt;timeout_sec&gt;60&lt;/timeout_sec&gt;&lt;/one_api_service_plan_feature&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1320934836</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>f6243ac9ebd512108c58f55cbad0cdc8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19291962b740000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>___$y$t3m_bu1163r___-1b2de645eb9512108c58f55cbad0cd0b, 8cfd644f7ffe02100a03b6257d8665c8, 3601262ba3d</target_name>
+<type>One API Service Plan Feature</type>
+<update_domain>global</update_domain>
+<update_guid>58ad22c50395121005a0caeed8d826a3</update_guid>
+<update_guid_history>58ad22c50395121005a0caeed8d826a3:1320934836</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_capability_definition_1b2de645eb9512108c58f55cbad0cd0b</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_one_extend_capability_definition"&gt;&lt;sys_one_extend_capability_definition action="INSERT_OR_UPDATE"&gt;&lt;advanced&gt;false&lt;/advanced&gt;&lt;api&gt;936e514a53b3b110f028ddeeff7b128c&lt;/api&gt;&lt;api_type&gt;sys_hub_flow&lt;/api_type&gt;&lt;capability display_value="Sentiment Analysis"&gt;d72de645eb9512108c58f55cbad0cd00&lt;/capability&gt;&lt;category display_value="Other"&gt;04c489f3532121106b38ddeeff7b1215&lt;/category&gt;&lt;connection display_value="sn_generative_ai.Now_LLM"&gt;4e85d828777721105de60f207b5a9906&lt;/connection&gt;&lt;description/&gt;&lt;filter_properties&gt;{"provider":"Now LLM GenericNow LLM Generic"}&lt;/filter_properties&gt;&lt;metadata/&gt;&lt;name&gt;Sentiment Analysis&lt;/name&gt;&lt;order&gt;0&lt;/order&gt;&lt;postprocessor&gt;&lt;![CDATA[(function(outputs) {     	/* write code here to transform definition output to capability output.*/     	     	outputs = JSON.parse(outputs);     	     	return outputs;     })(outputs);]]&gt;&lt;/postprocessor&gt;&lt;preprocessor&gt;&lt;![CDATA[(function(inputs) {     	/* write code here to transform capability input to definition input.*/     	     	inputs = JSON.parse(inputs);     	     	return inputs;     })(inputs);]]&gt;&lt;/preprocessor&gt;&lt;sys_class_name&gt;sys_one_extend_capability_definition&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:07:52&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;1b2de645eb9512108c58f55cbad0cd0b&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Sentiment Analysis&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_one_extend_capability_definition_1b2de645eb9512108c58f55cbad0cd0b&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:07:52&lt;/sys_updated_on&gt;&lt;truncate_strategy display_value="Default Truncation Strategy"&gt;2b99e1137fb20210f465c3b76d86650d&lt;/truncate_strategy&gt;&lt;/sys_one_extend_capability_definition&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=1b2de645eb9512108c58f55cbad0cd0b"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1180685484</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>f6243ac9ebd512108c58f55cbad0cdef</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19291945dce0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>Sentiment Analysis</target_name>
+<type>OneExtend Capability Definition</type>
+<update_domain>global</update_domain>
+<update_guid>5b2de645859512105ec5709dc9b14050</update_guid>
+<update_guid_history>5b2de645859512105ec5709dc9b14050:1180685484</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_service_plan_feature_5cad22c5eb9512108c58f55cbad0cd9d</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="one_api_service_plan_feature"&gt;&lt;one_api_service_plan_feature action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applicability_condition/&gt;&lt;applicability_condition_table/&gt;&lt;applicability_script&gt;&lt;![CDATA[(function(featureInput, previousFeatureOutputs) {
+ /* customize condition logic here, return true or false */
+  if (typeof featureInput === "string") {
+ featureInput = JSON.parse(featureInput);
+    }
+
+    var metrics = featureInput &amp;&amp; featureInput._meta &amp;&amp; featureInput._meta.evaluationDetails &amp;&amp; featureInput._meta.evaluationDetails.metrics;
+
+    return metrics &amp;&amp; metrics.indexOf("864066e7a3d64210883c25d1d71e61e7") !== -1; //check for capability id of the metric
+})(featureInput, previousFeatureOutputs);]]&gt;&lt;/applicability_script&gt;&lt;applicability_type&gt;script&lt;/applicability_type&gt;&lt;delay_output_processing&gt;false&lt;/delay_output_processing&gt;&lt;depends_on/&gt;&lt;depends_on_list&gt;10ad22c5eb9512108c58f55cbad0cd7f&lt;/depends_on_list&gt;&lt;error_policy&gt;continue_service_plan_execution&lt;/error_policy&gt;&lt;feature display_value="3601262ba3d64210883c25d1d71e615c"&gt;48ad22c5eb9512108c58f55cbad0cd68&lt;/feature&gt;&lt;return_request&gt;false&lt;/return_request&gt;&lt;service_plan display_value="___$y$t3m_bu1163r___-1b2de645eb9512108c58f55cbad0cd0b, 8cfd644f7ffe02100a03b6257d8665c8, 3601262ba3d64210883c25d1d71e615c, cbf929b27fe242100a03b6257d866548, a5d3dae1a3d20210883c25d1d71e6108-default"&gt;10ad22c5eb9512108c58f55cbad0cd7c&lt;/service_plan&gt;&lt;sys_class_name&gt;one_api_service_plan_feature&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:09:50&lt;/sys_created_on&gt;&lt;sys_id&gt;5cad22c5eb9512108c58f55cbad0cd9d&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;___$y$t3m_bu1163r___-1b2de645eb9512108c58f55cbad0cd0b, 8cfd644f7ffe02100a03b6257d8665c8, 3601262ba3d64210883c25d1d71e615c, cbf929b27fe242100a03b6257d866548, a5d3dae1a3d20210883c25d1d71e6108-default: 3601262ba3d64210883c25d1d71e615c&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;one_api_service_plan_feature_5cad22c5eb9512108c58f55cbad0cd9d&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:09:50&lt;/sys_updated_on&gt;&lt;timeout_policy&gt;continue_service_plan_execution&lt;/timeout_policy&gt;&lt;timeout_sec&gt;60&lt;/timeout_sec&gt;&lt;/one_api_service_plan_feature&gt;&lt;/record_update&gt;</payload>
+<payload_hash>198561235</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>fa243ac9ebd512108c58f55cbad0cdc7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19291962b220000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>___$y$t3m_bu1163r___-1b2de645eb9512108c58f55cbad0cd0b, 8cfd644f7ffe02100a03b6257d8665c8, 3601262ba3d</target_name>
+<type>One API Service Plan Feature</type>
+<update_domain>global</update_domain>
+<update_guid>dcad22c5079512107465cf4e127a069e</update_guid>
+<update_guid_history>dcad22c5079512107465cf4e127a069e:198561235</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_generative_ai_prompt_config_672de645eb9512108c58f55cbad0cd64</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_generative_ai_prompt_config"><sys_generative_ai_prompt_config action="INSERT_OR_UPDATE"><ai_config display_value="OneExtend Capability Definition: Sentiment Analysis">672de645eb9512108c58f55cbad0cd55</ai_config><definition display_value="Sentiment Analysis">1b2de645eb9512108c58f55cbad0cd0b</definition><filter_properties>{}</filter_properties><filter_type>default</filter_type><is_default>true</is_default><order>0</order><sys_class_name>sys_generative_ai_prompt_config</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:07:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>672de645eb9512108c58f55cbad0cd64</sys_id><sys_mod_count>1</sys_mod_count><sys_name>672de645eb9512108c58f55cbad0cd55</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_generative_ai_prompt_config_672de645eb9512108c58f55cbad0cd64</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:09:44</sys_updated_on></sys_generative_ai_prompt_config></record_update>]]></payload>
+<payload_hash>1427741492</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>fa243ac9ebd512108c58f55cbad0cdee</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919613980000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>672de645eb9512108c58f55cbad0cd55</target_name>
+<type>Generative AI Prompt Config</type>
+<update_domain>global</update_domain>
+<update_guid>be9d2a853b951210faf1b7a2f63bba62</update_guid>
+<update_guid_history>be9d2a853b951210faf1b7a2f63bba62:1427741492,2f2de64519951210b5a97f3c7e9b9466:-1059495784</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_service_plan_46bea2c9eb9512108c58f55cbad0cdaa</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="one_api_service_plan"><one_api_service_plan action="INSERT_OR_UPDATE"><active>true</active><input_processor/><name>___$y$t3m_bu1163r___-1b2de645eb9512108c58f55cbad0cd0b-default</name><output_processor display_value="OneExtendOutputProcessor">250bd34353111110c271ddeeff7b12da</output_processor><sys_class_name>one_api_service_plan</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:14:36</sys_created_on><sys_id>46bea2c9eb9512108c58f55cbad0cdaa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>___$y$t3m_bu1163r___-1b2de645eb9512108c58f55cbad0cd0b-default</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>one_api_service_plan_46bea2c9eb9512108c58f55cbad0cdaa</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:14:36</sys_updated_on><timeout_ms>60000</timeout_ms></one_api_service_plan></record_update>]]></payload>
+<payload_hash>1588308747</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>fe243ac9ebd512108c58f55cbad0cdc6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919a87c30000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>___$y$t3m_bu1163r___-1b2de645eb9512108c58f55cbad0cd0b-default</target_name>
+<type>One API Service Plan</type>
+<update_domain>global</update_domain>
+<update_guid>c6bea2c9bc951210cead27f8e16ecfab</update_guid>
+<update_guid_history>c6bea2c9bc951210cead27f8e16ecfab:1588308747</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_eval_attribute_672de645eb9512108c58f55cbad0cd9a</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_one_extend_eval_attribute"&gt;&lt;sys_one_extend_eval_attribute action="INSERT_OR_UPDATE"&gt;&lt;advanced&gt;false&lt;/advanced&gt;&lt;capability display_value="Sentiment Analysis"&gt;d72de645eb9512108c58f55cbad0cd00&lt;/capability&gt;&lt;capability_attribute display_value="response"&gt;ef2de645eb9512108c58f55cbad0cd97&lt;/capability_attribute&gt;&lt;data_type&gt;string&lt;/data_type&gt;&lt;label&gt;Golden Response&lt;/label&gt;&lt;name&gt;response&lt;/name&gt;&lt;sys_class_name&gt;sys_one_extend_eval_attribute&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:07:53&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;672de645eb9512108c58f55cbad0cd9a&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Golden Response&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_one_extend_eval_attribute_672de645eb9512108c58f55cbad0cd9a&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:07:53&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;template_script&gt;&lt;![CDATA[(function getValue(response) {
+   // response would give the response from capability 
+})(response);]]&gt;&lt;/template_script&gt;&lt;/sys_one_extend_eval_attribute&gt;&lt;/record_update&gt;</payload>
+<payload_hash>37547176</payload_hash>
+<remote_update_set display_value="Sentiment Analysis Lab">ae243ac9ebd512108c58f55cbad0cdc3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:24</sys_created_on>
+<sys_id>fe243ac9ebd512108c58f55cbad0cdf0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919461190000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:24</sys_updated_on>
+<table/>
+<target_name>Golden Response</target_name>
+<type>OneExtend Eval Attribute</type>
+<update_domain>global</update_domain>
+<update_guid>2b2de645999512102ff55e03a540989c</update_guid>
+<update_guid_history>2b2de645999512102ff55e03a540989c:37547176</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>

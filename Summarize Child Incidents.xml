@@ -1,0 +1,1789 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2024-10-15 19:38:08">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Summarize Child Incidents</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>271f2e0deb9512108c58f55cbad0cd3f</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>a614f2c9ebd512108c58f55cbad0cdcf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_feature_64007201ebd512108c58f55cbad0cd72</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="one_api_feature"><one_api_feature action="INSERT_OR_UPDATE"><input_processor display_value="OneExtendGenericCapabilityRequestProcessor">a7eb538353111110c271ddeeff7b12a8</input_processor><name>02efeacdeb9512108c58f55cbad0cda6</name><output_processor/><short_description>Auto Generated </short_description><sys_class_name>one_api_feature</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:20:14</sys_created_on><sys_id>64007201ebd512108c58f55cbad0cd72</sys_id><sys_mod_count>0</sys_mod_count><sys_name>02efeacdeb9512108c58f55cbad0cda6</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>one_api_feature_64007201ebd512108c58f55cbad0cd72</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:20:14</sys_updated_on></one_api_feature></record_update>]]></payload>
+<payload_hash>1205403643</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>2214f2c9ebd512108c58f55cbad0cdd0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919fb1650000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>02efeacdeb9512108c58f55cbad0cda6</target_name>
+<type>One API Feature</type>
+<update_domain>global</update_domain>
+<update_guid>e400720129d512105a7903cd2294d173</update_guid>
+<update_guid_history>e400720129d512105a7903cd2294d173:1205403643</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_service_plan_feature_0ec0be81ebd512108c58f55cbad0cd97</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="one_api_service_plan_feature"&gt;&lt;one_api_service_plan_feature action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applicability_condition/&gt;&lt;applicability_condition_table/&gt;&lt;applicability_script&gt;&lt;![CDATA[(function(featureInput, previousFeatureOutputs) {  
+	/* customize condition logic here, return true or false */  
+	return true;
+  })(featureInput, previousFeatureOutputs);]]&gt;&lt;/applicability_script&gt;&lt;applicability_type&gt;script&lt;/applicability_type&gt;&lt;delay_output_processing&gt;false&lt;/delay_output_processing&gt;&lt;depends_on/&gt;&lt;depends_on_list&gt;4ec0be81ebd512108c58f55cbad0cd94&lt;/depends_on_list&gt;&lt;error_policy&gt;continue_service_plan_execution&lt;/error_policy&gt;&lt;feature display_value="5b5f2e4deb9512108c58f55cbad0cd93"&gt;c6c07e81ebd512108c58f55cbad0cde5&lt;/feature&gt;&lt;return_request&gt;false&lt;/return_request&gt;&lt;service_plan display_value="___$y$t3m_bu1163r___-5b5f2e4deb9512108c58f55cbad0cd93, 02efeacdeb9512108c58f55cbad0cda6-default"&gt;8ec0be81ebd512108c58f55cbad0cd91&lt;/service_plan&gt;&lt;sys_class_name&gt;one_api_service_plan_feature&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:23:37&lt;/sys_created_on&gt;&lt;sys_id&gt;0ec0be81ebd512108c58f55cbad0cd97&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;___$y$t3m_bu1163r___-5b5f2e4deb9512108c58f55cbad0cd93, 02efeacdeb9512108c58f55cbad0cda6-default: 5b5f2e4deb9512108c58f55cbad0cd93&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;one_api_service_plan_feature_0ec0be81ebd512108c58f55cbad0cd97&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:23:37&lt;/sys_updated_on&gt;&lt;timeout_policy&gt;continue_service_plan_execution&lt;/timeout_policy&gt;&lt;timeout_sec&gt;60&lt;/timeout_sec&gt;&lt;/one_api_service_plan_feature&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1364590438</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>2214f2c9ebd512108c58f55cbad0cdd3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19291a2c8f30000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>___$y$t3m_bu1163r___-5b5f2e4deb9512108c58f55cbad0cd93, 02efeacdeb9512108c58f55cbad0cda6-default: 5b5</target_name>
+<type>One API Service Plan Feature</type>
+<update_domain>global</update_domain>
+<update_guid>8ec0be81a2d51210159351a50d3fce98</update_guid>
+<update_guid_history>8ec0be81a2d51210159351a50d3fce98:1364590438</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sn_nowassist_skill_config_235f2e4deb9512108c58f55cbad0cdbf</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sn_nowassist_skill_config"&gt;&lt;sn_nowassist_skill_config action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;description&gt;&lt;![CDATA[Summarize Child Incidents]]&gt;&lt;/description&gt;&lt;in_product_active&gt;false&lt;/in_product_active&gt;&lt;in_product_roles/&gt;&lt;is_template&gt;false&lt;/is_template&gt;&lt;name&gt;Summarize Child Incidents&lt;/name&gt;&lt;nap_skill_applicability/&gt;&lt;order&gt;100&lt;/order&gt;&lt;parent/&gt;&lt;skill_family display_value="Summarize Child INC"&gt;b1707a41ebd512108c58f55cbad0cdc5&lt;/skill_family&gt;&lt;skill_id&gt;135fa64deb9512108c58f55cbad0cdb6&lt;/skill_id&gt;&lt;skill_table&gt;sys_one_extend_capability&lt;/skill_table&gt;&lt;state&gt;1&lt;/state&gt;&lt;success_message/&gt;&lt;sys_class_name&gt;sn_nowassist_skill_config&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:17:26&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;235f2e4deb9512108c58f55cbad0cdbf&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name&gt;Summarize Child Incidents&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sn_nowassist_skill_config_235f2e4deb9512108c58f55cbad0cdbf&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:23:06&lt;/sys_updated_on&gt;&lt;/sn_nowassist_skill_config&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=235f2e4deb9512108c58f55cbad0cdbf"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-212376524</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>2214f6c9ebd512108c58f55cbad0cd54</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19291a24f2f0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>Summarize Child Incidents</target_name>
+<type>Now Assist Skill Config</type>
+<update_domain>global</update_domain>
+<update_guid>e2a076818ed51210133a6c272208ad97</update_guid>
+<update_guid_history>e2a076818ed51210133a6c272208ad97:-212376524,d490fe4160d51210c8ceabcdd8acd6cf:881845669,4e707a41a3d51210c2ef5bde89a874ca:-1219982876,e75f2e4d4a9512103d1de699789d04d9:997646520</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_definition_attribute_6b5f2e4deb9512108c58f55cbad0cdbc</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_attribute"><sys_one_extend_definition_attribute action="INSERT_OR_UPDATE"><active>true</active><apply_filter>false</apply_filter><attribute_label/><capability display_value="Summarize Child Incidents">135fa64deb9512108c58f55cbad0cdb6</capability><choice_list/><contains_large_input>false</contains_large_input><data_type>string</data_type><default_value/><definition/><description>Status</description><hidden>false</hidden><label>status</label><mandatory>false</mandatory><name>status</name><order>100</order><schema/><sys_class_name>sys_one_extend_definition_attribute</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:17:26</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6b5f2e4deb9512108c58f55cbad0cdbc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>status</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_one_extend_definition_attribute_6b5f2e4deb9512108c58f55cbad0cdbc</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:17:26</sys_updated_on><translate>false</translate><truncate>false</truncate><type>output</type></sys_one_extend_definition_attribute><sys_translated_text action="delete_multiple" query="documentkey=6b5f2e4deb9512108c58f55cbad0cdbc"/></record_update>]]></payload>
+<payload_hash>29630414</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>2214f6c9ebd512108c58f55cbad0cd57</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919d1f5e0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>status</target_name>
+<type>OneExtend Capability Attribute</type>
+<update_domain>global</update_domain>
+<update_guid>2f5f2e4dd4951210b4af286cb1e931bd</update_guid>
+<update_guid_history>2f5f2e4dd4951210b4af286cb1e931bd:29630414</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_feature_provider_8ec07e81ebd512108c58f55cbad0cded</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="one_api_feature_provider"&gt;&lt;one_api_feature_provider action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;feature display_value="02efeacdeb9512108c58f55cbad0cda6"&gt;0ac07e81ebd512108c58f55cbad0cde8&lt;/feature&gt;&lt;feature_service display_value="OneExtendGenericProvider"&gt;5233278353111110c271ddeeff7b129b&lt;/feature_service&gt;&lt;feature_service_factory&gt;&lt;![CDATA[(function() { return new global.OneExtendGenericProvider(); })()]]&gt;&lt;/feature_service_factory&gt;&lt;name&gt;df646dceeb5742100393f58abad0cd4e_Inciden&lt;/name&gt;&lt;short_description&gt;Auto Generated &lt;/short_description&gt;&lt;sys_class_name&gt;one_api_feature_provider&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:23:37&lt;/sys_created_on&gt;&lt;sys_id&gt;8ec07e81ebd512108c58f55cbad0cded&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;df646dceeb5742100393f58abad0cd4e_Inciden&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;one_api_feature_provider_8ec07e81ebd512108c58f55cbad0cded&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:23:37&lt;/sys_updated_on&gt;&lt;type&gt;FDIH Action&lt;/type&gt;&lt;type_document display_value="GlobalToolExecutor"&gt;4d9a83679f9202107c0e2305fa0a1c8c&lt;/type_document&gt;&lt;/one_api_feature_provider&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1443735700</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>2614f2c9ebd512108c58f55cbad0cdd2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19291a2c8540000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>df646dceeb5742100393f58abad0cd4e_Inciden</target_name>
+<type>One API Feature Provider</type>
+<update_domain>global</update_domain>
+<update_guid>cac0be8169d51210657f7542271c6290</update_guid>
+<update_guid_history>cac0be8169d51210657f7542271c6290:-1443735700</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_capability_definition_5b5f2e4deb9512108c58f55cbad0cd93</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_one_extend_capability_definition"&gt;&lt;sys_one_extend_capability_definition action="INSERT_OR_UPDATE"&gt;&lt;advanced&gt;false&lt;/advanced&gt;&lt;api&gt;936e514a53b3b110f028ddeeff7b128c&lt;/api&gt;&lt;api_type&gt;sys_hub_flow&lt;/api_type&gt;&lt;capability display_value="Summarize Child Incidents"&gt;135fa64deb9512108c58f55cbad0cdb6&lt;/capability&gt;&lt;category display_value="Other"&gt;04c489f3532121106b38ddeeff7b1215&lt;/category&gt;&lt;connection display_value="sn_generative_ai.Now_LLM"&gt;4e85d828777721105de60f207b5a9906&lt;/connection&gt;&lt;description/&gt;&lt;filter_properties&gt;{"provider":"Now LLM GenericNow LLM Generic"}&lt;/filter_properties&gt;&lt;metadata/&gt;&lt;name&gt;Summarize Child Incidents&lt;/name&gt;&lt;order&gt;0&lt;/order&gt;&lt;postprocessor&gt;&lt;![CDATA[(function(outputs) {     	/* write code here to transform definition output to capability output.*/     	     	outputs = JSON.parse(outputs);     	     	return outputs;     })(outputs);]]&gt;&lt;/postprocessor&gt;&lt;preprocessor&gt;&lt;![CDATA[(function(inputs) {     	/* write code here to transform capability input to definition input.*/     	     	inputs = JSON.parse(inputs);     	     	return inputs;     })(inputs);]]&gt;&lt;/preprocessor&gt;&lt;sys_class_name&gt;sys_one_extend_capability_definition&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:17:25&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;5b5f2e4deb9512108c58f55cbad0cd93&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Summarize Child Incidents&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_one_extend_capability_definition_5b5f2e4deb9512108c58f55cbad0cd93&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:17:25&lt;/sys_updated_on&gt;&lt;truncate_strategy display_value="Default Truncation Strategy"&gt;2b99e1137fb20210f465c3b76d86650d&lt;/truncate_strategy&gt;&lt;/sys_one_extend_capability_definition&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=5b5f2e4deb9512108c58f55cbad0cd93"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-830227844</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>2614f6c9ebd512108c58f55cbad0cd56</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919d1c370000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>Summarize Child Incidents</target_name>
+<type>OneExtend Capability Definition</type>
+<update_domain>global</update_domain>
+<update_guid>5b5f2e4de99512106e0e2e392beaef98</update_guid>
+<update_guid_history>5b5f2e4de99512106e0e2e392beaef98:-830227844</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_resource_mapping_8eefeacdeb9512108c58f55cbad0cdcd</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_one_extend_resource_mapping"&gt;&lt;sys_one_extend_resource_mapping action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applicability_condition/&gt;&lt;applicability_condition_table/&gt;&lt;applicability_failed_policy/&gt;&lt;applicability_script&gt;&lt;![CDATA[(function(featureInput, previousFeatureOutputs) {  
+	/* customize condition logic here, return true or false */  
+	return true;
+  })(featureInput, previousFeatureOutputs);]]&gt;&lt;/applicability_script&gt;&lt;applicability_type/&gt;&lt;error_handler_script&gt;&lt;![CDATA[(function handleError() {  
+	// customize condition logic here,  
+	return ;
+})();]]&gt;&lt;/error_handler_script&gt;&lt;error_policy/&gt;&lt;parent_capability display_value="Summarize Child Incidents"&gt;135fa64deb9512108c58f55cbad0cdb6&lt;/parent_capability&gt;&lt;resource_capability display_value="df646dceeb5742100393f58abad0cd4e_Inciden"&gt;caefee4deb9512108c58f55cbad0cd89&lt;/resource_capability&gt;&lt;resource_name&gt;IncidentJournalFetcher&lt;/resource_name&gt;&lt;sys_class_name&gt;sys_one_extend_resource_mapping&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:19:47&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;8eefeacdeb9512108c58f55cbad0cdcd&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;IncidentJournalFetcher&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_one_extend_resource_mapping_8eefeacdeb9512108c58f55cbad0cdcd&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:19:47&lt;/sys_updated_on&gt;&lt;/sys_one_extend_resource_mapping&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=8eefeacdeb9512108c58f55cbad0cdcd"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>420276623</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>2614f6c9ebd512108c58f55cbad0cd59</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919f48050000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>IncidentJournalFetcher</target_name>
+<type>OneExtend Resource Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>46efeacde09512102d6bd3cc39c52ccf</update_guid>
+<update_guid_history>46efeacde09512102d6bd3cc39c52ccf:420276623</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_feature_provider_70007201ebd512108c58f55cbad0cd9e</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="one_api_feature_provider"&gt;&lt;one_api_feature_provider action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;feature display_value="5b5f2e4deb9512108c58f55cbad0cd93"&gt;e4007201ebd512108c58f55cbad0cd6f&lt;/feature&gt;&lt;feature_service display_value="OneExtendGenericProvider"&gt;5233278353111110c271ddeeff7b129b&lt;/feature_service&gt;&lt;feature_service_factory&gt;&lt;![CDATA[(function() { return new global.OneExtendGenericProvider(); })()]]&gt;&lt;/feature_service_factory&gt;&lt;name&gt;Summarize Child Incidents provider&lt;/name&gt;&lt;short_description&gt;Auto Generated &lt;/short_description&gt;&lt;sys_class_name&gt;one_api_feature_provider&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:20:15&lt;/sys_created_on&gt;&lt;sys_id&gt;70007201ebd512108c58f55cbad0cd9e&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Summarize Child Incidents provider&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;one_api_feature_provider_70007201ebd512108c58f55cbad0cd9e&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:20:15&lt;/sys_updated_on&gt;&lt;type&gt;FDIH Subflow&lt;/type&gt;&lt;type_document display_value="Now LLM Integration"&gt;936e514a53b3b110f028ddeeff7b128c&lt;/type_document&gt;&lt;/one_api_feature_provider&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1824835925</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>2a14f2c9ebd512108c58f55cbad0cdd1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919fb3c80000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>Summarize Child Incidents provider</target_name>
+<type>One API Feature Provider</type>
+<update_domain>global</update_domain>
+<update_guid>f0007201dbd512107c389f586313999f</update_guid>
+<update_guid_history>f0007201dbd512107c389f586313999f:1824835925</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_gen_ai_strategy_mapping_db5f2e4deb9512108c58f55cbad0cd90</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_gen_ai_strategy_mapping"><sys_gen_ai_strategy_mapping action="INSERT_OR_UPDATE"><active>true</active><feature display_value="Summarize Child Incidents">535f2e4deb9512108c58f55cbad0cd8e</feature><strategy>CAPABILITY_EXECUTION</strategy><sys_class_name>sys_gen_ai_strategy_mapping</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:17:25</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>db5f2e4deb9512108c58f55cbad0cd90</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CAPABILITY_EXECUTION</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_gen_ai_strategy_mapping_db5f2e4deb9512108c58f55cbad0cd90</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:17:25</sys_updated_on></sys_gen_ai_strategy_mapping></record_update>]]></payload>
+<payload_hash>-1935978610</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>2a14f6c9ebd512108c58f55cbad0cd55</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919d1bb50000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>CAPABILITY_EXECUTION</target_name>
+<type>Generative AI Strategy Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>d35f2e4db4951210c210d143123ff992</update_guid>
+<update_guid_history>d35f2e4db4951210c210d143123ff992:-1935978610</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_eval_attribute_2f5f2e4deb9512108c58f55cbad0cdb9</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_one_extend_eval_attribute"&gt;&lt;sys_one_extend_eval_attribute action="INSERT_OR_UPDATE"&gt;&lt;advanced&gt;false&lt;/advanced&gt;&lt;capability display_value="Summarize Child Incidents"&gt;135fa64deb9512108c58f55cbad0cdb6&lt;/capability&gt;&lt;capability_attribute display_value="response"&gt;a75f2e4deb9512108c58f55cbad0cdb7&lt;/capability_attribute&gt;&lt;data_type&gt;string&lt;/data_type&gt;&lt;label&gt;Golden Response&lt;/label&gt;&lt;name&gt;response&lt;/name&gt;&lt;sys_class_name&gt;sys_one_extend_eval_attribute&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:17:26&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;2f5f2e4deb9512108c58f55cbad0cdb9&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Golden Response&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_one_extend_eval_attribute_2f5f2e4deb9512108c58f55cbad0cdb9&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:17:26&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;template_script&gt;&lt;![CDATA[(function getValue(response) {
+   // response would give the response from capability 
+})(response);]]&gt;&lt;/template_script&gt;&lt;/sys_one_extend_eval_attribute&gt;&lt;/record_update&gt;</payload>
+<payload_hash>138575202</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>2a14f6c9ebd512108c58f55cbad0cd58</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919d1f2f0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>Golden Response</target_name>
+<type>OneExtend Eval Attribute</type>
+<update_domain>global</update_domain>
+<update_guid>275f2e4d00951210ca2ccdb78e3956bb</update_guid>
+<update_guid_history>275f2e4d00951210ca2ccdb78e3956bb:138575202</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_feature_ec007201ebd512108c58f55cbad0cd76</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="one_api_feature"><one_api_feature action="INSERT_OR_UPDATE"><input_processor display_value="OneExtendGenericCapabilityRequestProcessor">a7eb538353111110c271ddeeff7b12a8</input_processor><name>8cfd644f7ffe02100a03b6257d8665c8</name><output_processor/><short_description>Auto Generated </short_description><sys_class_name>one_api_feature</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:20:15</sys_created_on><sys_id>ec007201ebd512108c58f55cbad0cd76</sys_id><sys_mod_count>0</sys_mod_count><sys_name>8cfd644f7ffe02100a03b6257d8665c8</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>one_api_feature_ec007201ebd512108c58f55cbad0cd76</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:20:15</sys_updated_on></one_api_feature></record_update>]]></payload>
+<payload_hash>2026876693</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>2e14f2c9ebd512108c58f55cbad0cdd0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919fb1d50000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>8cfd644f7ffe02100a03b6257d8665c8</target_name>
+<type>One API Feature</type>
+<update_domain>global</update_domain>
+<update_guid>6000720119d512105e5bc74e02b95278</update_guid>
+<update_guid_history>6000720119d512105e5bc74e02b95278:2026876693</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_service_plan_feature_b0007201ebd512108c58f55cbad0cdb4</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="one_api_service_plan_feature"&gt;&lt;one_api_service_plan_feature action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applicability_condition/&gt;&lt;applicability_condition_table/&gt;&lt;applicability_script&gt;&lt;![CDATA[(function(featureInput, previousFeatureOutputs) {  
+	/* customize condition logic here, return true or false */  
+	return true;
+  })(featureInput, previousFeatureOutputs);]]&gt;&lt;/applicability_script&gt;&lt;applicability_type&gt;script&lt;/applicability_type&gt;&lt;delay_output_processing&gt;false&lt;/delay_output_processing&gt;&lt;depends_on/&gt;&lt;depends_on_list/&gt;&lt;error_policy&gt;continue_service_plan_execution&lt;/error_policy&gt;&lt;feature display_value="02efeacdeb9512108c58f55cbad0cda6"&gt;64007201ebd512108c58f55cbad0cd72&lt;/feature&gt;&lt;return_request&gt;false&lt;/return_request&gt;&lt;service_plan display_value="___$y$t3m_bu1163r___-5b5f2e4deb9512108c58f55cbad0cd93, 02efeacdeb9512108c58f55cbad0cda6, cbf929b27fe242100a03b6257d866548, 8cfd644f7ffe02100a03b6257d8665c8, 3601262ba3d64210883c25d1d71e615c, a5d3dae1a"&gt;b4007201ebd512108c58f55cbad0cdb1&lt;/service_plan&gt;&lt;sys_class_name&gt;one_api_service_plan_feature&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:20:15&lt;/sys_created_on&gt;&lt;sys_id&gt;b0007201ebd512108c58f55cbad0cdb4&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;___$y$t3m_bu1163r___-5b5f2e4deb9512108c58f55cbad0cd93, 02efeacdeb9512108c58f55cbad0cda6, cbf929b27fe242100a03b6257d866548, 8cfd644f7ffe02100a03b6257d8665c8, 3601262ba3d64210883c25d1d71e615c, a5d3dae1a: 02efeacdeb9512108c58f55cbad0cda6&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;one_api_service_plan_feature_b0007201ebd512108c58f55cbad0cdb4&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:20:15&lt;/sys_updated_on&gt;&lt;timeout_policy&gt;continue_service_plan_execution&lt;/timeout_policy&gt;&lt;timeout_sec&gt;60&lt;/timeout_sec&gt;&lt;/one_api_service_plan_feature&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-34728753</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>2e14f2c9ebd512108c58f55cbad0cdd3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919fb47e0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>___$y$t3m_bu1163r___-5b5f2e4deb9512108c58f55cbad0cd93, 02efeacdeb9512108c58f55cbad0cda6, cbf929b27fe</target_name>
+<type>One API Service Plan Feature</type>
+<update_domain>global</update_domain>
+<update_guid>b800720128d512100204757b9447d2b5</update_guid>
+<update_guid_history>b800720128d512100204757b9447d2b5:-34728753</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_generative_ai_prompt_config_9f5f2e4deb9512108c58f55cbad0cdaa</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_generative_ai_prompt_config"><sys_generative_ai_prompt_config action="INSERT_OR_UPDATE"><ai_config display_value="OneExtend Capability Definition: Summarize Child Incidents">9b5f2e4deb9512108c58f55cbad0cda9</ai_config><definition display_value="Summarize Child Incidents">5b5f2e4deb9512108c58f55cbad0cd93</definition><filter_properties>{}</filter_properties><filter_type>default</filter_type><is_default>true</is_default><order>0</order><sys_class_name>sys_generative_ai_prompt_config</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:17:25</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9f5f2e4deb9512108c58f55cbad0cdaa</sys_id><sys_mod_count>1</sys_mod_count><sys_name>9b5f2e4deb9512108c58f55cbad0cda9</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_generative_ai_prompt_config_9f5f2e4deb9512108c58f55cbad0cdaa</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:20:12</sys_updated_on></sys_generative_ai_prompt_config></record_update>]]></payload>
+<payload_hash>1587108486</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>2e14f6c9ebd512108c58f55cbad0cd54</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919fa7ce0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>9b5f2e4deb9512108c58f55cbad0cda9</target_name>
+<type>Generative AI Prompt Config</type>
+<update_domain>global</update_domain>
+<update_guid>4000368d4095121096fbab922994212c</update_guid>
+<update_guid_history>4000368d4095121096fbab922994212c:1587108486,5f5f2e4df2951210ff4954280d9d00ac:1611936998</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_definition_attribute_c6efeacdeb9512108c58f55cbad0cdcb</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_attribute"><sys_one_extend_definition_attribute action="INSERT_OR_UPDATE"><active>true</active><apply_filter>false</apply_filter><attribute_label/><capability display_value="df646dceeb5742100393f58abad0cd4e_Inciden">caefee4deb9512108c58f55cbad0cd89</capability><choice_list/><contains_large_input>false</contains_large_input><data_type>string</data_type><default_value/><definition/><description/><hidden>false</hidden><label>Output</label><mandatory>true</mandatory><name>output</name><order>100</order><schema/><sys_class_name>sys_one_extend_definition_attribute</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:19:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c6efeacdeb9512108c58f55cbad0cdcb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>output</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_one_extend_definition_attribute_c6efeacdeb9512108c58f55cbad0cdcb</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:19:47</sys_updated_on><translate>false</translate><truncate>true</truncate><type>output</type></sys_one_extend_definition_attribute><sys_translated_text action="delete_multiple" query="documentkey=c6efeacdeb9512108c58f55cbad0cdcb"/></record_update>]]></payload>
+<payload_hash>1635828704</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>2e14f6c9ebd512108c58f55cbad0cd57</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919f47d50000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>output</target_name>
+<type>OneExtend Capability Attribute</type>
+<update_domain>global</update_domain>
+<update_guid>8aefeacd40951210eaa023c8b15474cc</update_guid>
+<update_guid_history>8aefeacd40951210eaa023c8b15474cc:1635828704</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_feature_provider_7c007201ebd512108c58f55cbad0cdac</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="one_api_feature_provider"&gt;&lt;one_api_feature_provider action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;feature display_value="02efeacdeb9512108c58f55cbad0cda6"&gt;64007201ebd512108c58f55cbad0cd72&lt;/feature&gt;&lt;feature_service display_value="OneExtendGenericProvider"&gt;5233278353111110c271ddeeff7b129b&lt;/feature_service&gt;&lt;feature_service_factory&gt;&lt;![CDATA[(function() { return new global.OneExtendGenericProvider(); })()]]&gt;&lt;/feature_service_factory&gt;&lt;name&gt;df646dceeb5742100393f58abad0cd4e_Inciden&lt;/name&gt;&lt;short_description&gt;Auto Generated &lt;/short_description&gt;&lt;sys_class_name&gt;one_api_feature_provider&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:20:15&lt;/sys_created_on&gt;&lt;sys_id&gt;7c007201ebd512108c58f55cbad0cdac&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;df646dceeb5742100393f58abad0cd4e_Inciden&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;one_api_feature_provider_7c007201ebd512108c58f55cbad0cdac&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:20:15&lt;/sys_updated_on&gt;&lt;type&gt;FDIH Action&lt;/type&gt;&lt;type_document display_value="GlobalToolExecutor"&gt;4d9a83679f9202107c0e2305fa0a1c8c&lt;/type_document&gt;&lt;/one_api_feature_provider&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-424305655</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>6214f2c9ebd512108c58f55cbad0cdd2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919fb3fa0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>df646dceeb5742100393f58abad0cd4e_Inciden</target_name>
+<type>One API Feature Provider</type>
+<update_domain>global</update_domain>
+<update_guid>fc0072018bd51210c6ed920e217f70ad</update_guid>
+<update_guid_history>fc0072018bd51210c6ed920e217f70ad:-424305655</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_capability_definition_02efeacdeb9512108c58f55cbad0cda6</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_one_extend_capability_definition"&gt;&lt;sys_one_extend_capability_definition action="INSERT_OR_UPDATE"&gt;&lt;advanced&gt;false&lt;/advanced&gt;&lt;api&gt;4d9a83679f9202107c0e2305fa0a1c8c&lt;/api&gt;&lt;api_type&gt;sys_hub_action_type_definition&lt;/api_type&gt;&lt;capability display_value="df646dceeb5742100393f58abad0cd4e_Inciden"&gt;caefee4deb9512108c58f55cbad0cd89&lt;/capability&gt;&lt;category display_value="Other"&gt;04c489f3532121106b38ddeeff7b1215&lt;/category&gt;&lt;connection display_value="sn_generative_ai.Now_LLM"&gt;4e85d828777721105de60f207b5a9906&lt;/connection&gt;&lt;description/&gt;&lt;filter_properties&gt;{}&lt;/filter_properties&gt;&lt;metadata&gt;{"scriptFunctionName":"getChildIncidentDetails","scriptId":"df646dceeb5742100393f58abad0cd4e"}&lt;/metadata&gt;&lt;name&gt;df646dceeb5742100393f58abad0cd4e_IncidentJournalFetcher.getChildIncidentDetails&lt;/name&gt;&lt;order&gt;0&lt;/order&gt;&lt;postprocessor&gt;&lt;![CDATA[(function(outputs) {     	/* write code here to transform definition output to capability output.*/     	     	outputs = JSON.parse(outputs);     	     	return outputs;     })(outputs);]]&gt;&lt;/postprocessor&gt;&lt;preprocessor&gt;&lt;![CDATA[(function(inputs) {     	/* write code here to transform capability input to definition input.*/     	     	inputs = JSON.parse(inputs);     	     	return inputs;     })(inputs);]]&gt;&lt;/preprocessor&gt;&lt;sys_class_name&gt;sys_one_extend_capability_definition&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:19:47&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;02efeacdeb9512108c58f55cbad0cda6&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;df646dceeb5742100393f58abad0cd4e_IncidentJournalFetcher.getChildIncidentDetails&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_one_extend_capability_definition_02efeacdeb9512108c58f55cbad0cda6&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:19:47&lt;/sys_updated_on&gt;&lt;truncate_strategy display_value="Default Truncation Strategy"&gt;2b99e1137fb20210f465c3b76d86650d&lt;/truncate_strategy&gt;&lt;/sys_one_extend_capability_definition&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=02efeacdeb9512108c58f55cbad0cda6"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1506295277</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>6214f6c9ebd512108c58f55cbad0cd56</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919f473c0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>df646dceeb5742100393f58abad0cd4e_IncidentJournalFetcher.getChildIncidentDetails</target_name>
+<type>OneExtend Capability Definition</type>
+<update_domain>global</update_domain>
+<update_guid>c2efeacd4d951210c83f54d9060bd1aa</update_guid>
+<update_guid_history>c2efeacd4d951210c83f54d9060bd1aa:-1506295277</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_resource_attribute_mapping_caefeacdeb9512108c58f55cbad0cdd0</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_one_extend_resource_attribute_mapping"&gt;&lt;sys_one_extend_resource_attribute_mapping action="INSERT_OR_UPDATE"&gt;&lt;attribute_value_script&gt;&lt;![CDATA[(function execute(payload) {  
+	// payload is stringified and contains _meta  
+	// return value for the attribute  
+	return '';
+})(payload);]]&gt;&lt;/attribute_value_script&gt;&lt;attribute_value_template&gt;{{incident.sys_id}}&lt;/attribute_value_template&gt;&lt;attribute_value_type&gt;template&lt;/attribute_value_type&gt;&lt;resource_attribute_name display_value="incidentSysId"&gt;4eefeacdeb9512108c58f55cbad0cdad&lt;/resource_attribute_name&gt;&lt;resource_mapping display_value="IncidentJournalFetcher"&gt;8eefeacdeb9512108c58f55cbad0cdcd&lt;/resource_mapping&gt;&lt;sys_class_name&gt;sys_one_extend_resource_attribute_mapping&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:19:47&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;caefeacdeb9512108c58f55cbad0cdd0&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_one_extend_resource_attribute_mapping_caefeacdeb9512108c58f55cbad0cdd0&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:19:47&lt;/sys_updated_on&gt;&lt;/sys_one_extend_resource_attribute_mapping&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1059885388</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>6214f6c9ebd512108c58f55cbad0cd59</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919f48900000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name/>
+<type>OneExtend Resource Attribute Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>02efeacdf5951210c6266305d7b68ad2</update_guid>
+<update_guid_history>02efeacdf5951210c6266305d7b68ad2:1059885388</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_feature_provider_4ec07e81ebd512108c58f55cbad0cdea</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="one_api_feature_provider"&gt;&lt;one_api_feature_provider action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;feature display_value="5b5f2e4deb9512108c58f55cbad0cd93"&gt;c6c07e81ebd512108c58f55cbad0cde5&lt;/feature&gt;&lt;feature_service display_value="OneExtendGenericProvider"&gt;5233278353111110c271ddeeff7b129b&lt;/feature_service&gt;&lt;feature_service_factory&gt;&lt;![CDATA[(function() { return new global.OneExtendGenericProvider(); })()]]&gt;&lt;/feature_service_factory&gt;&lt;name&gt;Summarize Child Incidents provider&lt;/name&gt;&lt;short_description&gt;Auto Generated &lt;/short_description&gt;&lt;sys_class_name&gt;one_api_feature_provider&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:23:37&lt;/sys_created_on&gt;&lt;sys_id&gt;4ec07e81ebd512108c58f55cbad0cdea&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Summarize Child Incidents provider&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;one_api_feature_provider_4ec07e81ebd512108c58f55cbad0cdea&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:23:37&lt;/sys_updated_on&gt;&lt;type&gt;FDIH Subflow&lt;/type&gt;&lt;type_document display_value="Now LLM Integration"&gt;936e514a53b3b110f028ddeeff7b128c&lt;/type_document&gt;&lt;/one_api_feature_provider&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1632014159</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>6614f2c9ebd512108c58f55cbad0cdd1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19291a2c7890000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>Summarize Child Incidents provider</target_name>
+<type>One API Feature Provider</type>
+<update_domain>global</update_domain>
+<update_guid>4ac07e813ad512104b4b2de1040fd6ec</update_guid>
+<update_guid_history>4ac07e813ad512104b4b2de1040fd6ec:-1632014159</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_service_plan_feature_fc007201ebd512108c58f55cbad0cdb6</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="one_api_service_plan_feature"&gt;&lt;one_api_service_plan_feature action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applicability_condition/&gt;&lt;applicability_condition_table/&gt;&lt;applicability_script&gt;&lt;![CDATA[(function(featureInput, previousFeatureOutputs) {  
+	/* customize condition logic here, return true or false */  
+	return true;
+  })(featureInput, previousFeatureOutputs);]]&gt;&lt;/applicability_script&gt;&lt;applicability_type&gt;script&lt;/applicability_type&gt;&lt;delay_output_processing&gt;false&lt;/delay_output_processing&gt;&lt;depends_on/&gt;&lt;depends_on_list&gt;b0007201ebd512108c58f55cbad0cdb4&lt;/depends_on_list&gt;&lt;error_policy&gt;continue_service_plan_execution&lt;/error_policy&gt;&lt;feature display_value="5b5f2e4deb9512108c58f55cbad0cd93"&gt;e4007201ebd512108c58f55cbad0cd6f&lt;/feature&gt;&lt;return_request&gt;false&lt;/return_request&gt;&lt;service_plan display_value="___$y$t3m_bu1163r___-5b5f2e4deb9512108c58f55cbad0cd93, 02efeacdeb9512108c58f55cbad0cda6, cbf929b27fe242100a03b6257d866548, 8cfd644f7ffe02100a03b6257d8665c8, 3601262ba3d64210883c25d1d71e615c, a5d3dae1a"&gt;b4007201ebd512108c58f55cbad0cdb1&lt;/service_plan&gt;&lt;sys_class_name&gt;one_api_service_plan_feature&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:20:15&lt;/sys_created_on&gt;&lt;sys_id&gt;fc007201ebd512108c58f55cbad0cdb6&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;___$y$t3m_bu1163r___-5b5f2e4deb9512108c58f55cbad0cd93, 02efeacdeb9512108c58f55cbad0cda6, cbf929b27fe242100a03b6257d866548, 8cfd644f7ffe02100a03b6257d8665c8, 3601262ba3d64210883c25d1d71e615c, a5d3dae1a: 5b5f2e4deb9512108c58f55cbad0cd93&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;one_api_service_plan_feature_fc007201ebd512108c58f55cbad0cdb6&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:20:15&lt;/sys_updated_on&gt;&lt;timeout_policy&gt;continue_service_plan_execution&lt;/timeout_policy&gt;&lt;timeout_sec&gt;60&lt;/timeout_sec&gt;&lt;/one_api_service_plan_feature&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-497136036</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>6614f2c9ebd512108c58f55cbad0cdd4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919fb4a50000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>___$y$t3m_bu1163r___-5b5f2e4deb9512108c58f55cbad0cd93, 02efeacdeb9512108c58f55cbad0cda6, cbf929b27fe</target_name>
+<type>One API Service Plan Feature</type>
+<update_domain>global</update_domain>
+<update_guid>70007201cfd51210212309c885a968b8</update_guid>
+<update_guid_history>70007201cfd51210212309c885a968b8:-497136036</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_gen_ai_strategy_mapping_caefee4deb9512108c58f55cbad0cd8e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_gen_ai_strategy_mapping"><sys_gen_ai_strategy_mapping action="INSERT_OR_UPDATE"><active>true</active><feature display_value="df646dceeb5742100393f58abad0cd4e_Inciden">46efee4deb9512108c58f55cbad0cd8c</feature><strategy>CAPABILITY_EXECUTION</strategy><sys_class_name>sys_gen_ai_strategy_mapping</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:19:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>caefee4deb9512108c58f55cbad0cd8e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CAPABILITY_EXECUTION</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_gen_ai_strategy_mapping_caefee4deb9512108c58f55cbad0cd8e</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:19:47</sys_updated_on></sys_gen_ai_strategy_mapping></record_update>]]></payload>
+<payload_hash>2131502574</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>6614f6c9ebd512108c58f55cbad0cd55</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919f46dc0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>CAPABILITY_EXECUTION</target_name>
+<type>Generative AI Strategy Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>8eefee4d049512106031dd1f9f116c8f</update_guid>
+<update_guid_history>8eefee4d049512106031dd1f9f116c8f:2131502574</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_definition_config_8aefeacdeb9512108c58f55cbad0cda6</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_config"><sys_one_extend_definition_config action="INSERT_OR_UPDATE"><active>true</active><capability display_value="df646dceeb5742100393f58abad0cd4e_Inciden">caefee4deb9512108c58f55cbad0cd89</capability><default>true</default><definition display_value="df646dceeb5742100393f58abad0cd4e_IncidentJournalFetcher.getChildIncidentDetails">02efeacdeb9512108c58f55cbad0cda6</definition><enable_large_input_support>false</enable_large_input_support><sys_class_name>sys_one_extend_definition_config</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:19:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8aefeacdeb9512108c58f55cbad0cda6</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_one_extend_definition_config_8aefeacdeb9512108c58f55cbad0cda6</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:19:47</sys_updated_on></sys_one_extend_definition_config></record_update>]]></payload>
+<payload_hash>1593126799</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>6614f6c9ebd512108c58f55cbad0cd58</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919f47660000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name/>
+<type>OneExtend Definition Config</type>
+<update_domain>global</update_domain>
+<update_guid>caefeacdc395121058904b6f965c24ac</update_guid>
+<update_guid_history>caefeacdc395121058904b6f965c24ac:1593126799,ceefeacdf1951210b10c48e15ef8a8a7:-1839228260</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_feature_e4007201ebd512108c58f55cbad0cd6f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="one_api_feature"><one_api_feature action="INSERT_OR_UPDATE"><input_processor display_value="OneExtendGenericCapabilityRequestProcessor">a7eb538353111110c271ddeeff7b12a8</input_processor><name>5b5f2e4deb9512108c58f55cbad0cd93</name><output_processor/><short_description>Auto Generated </short_description><sys_class_name>one_api_feature</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:20:14</sys_created_on><sys_id>e4007201ebd512108c58f55cbad0cd6f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>5b5f2e4deb9512108c58f55cbad0cd93</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>one_api_feature_e4007201ebd512108c58f55cbad0cd6f</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:20:14</sys_updated_on></one_api_feature></record_update>]]></payload>
+<payload_hash>572659207</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>6a14f2c9ebd512108c58f55cbad0cdd0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919fb1320000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>5b5f2e4deb9512108c58f55cbad0cd93</target_name>
+<type>One API Feature</type>
+<update_domain>global</update_domain>
+<update_guid>20007201f9d51210a592375722466a71</update_guid>
+<update_guid_history>20007201f9d51210a592375722466a71:572659207</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_service_plan_feature_74007201ebd512108c58f55cbad0cdca</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="one_api_service_plan_feature"&gt;&lt;one_api_service_plan_feature action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applicability_condition/&gt;&lt;applicability_condition_table/&gt;&lt;applicability_script&gt;&lt;![CDATA[(function(featureInput, previousFeatureOutputs) {
+ /* customize condition logic here, return true or false */
+  if (typeof featureInput === "string") {
+ featureInput = JSON.parse(featureInput);
+    }
+
+    var metrics = featureInput &amp;&amp; featureInput._meta &amp;&amp; featureInput._meta.evaluationDetails &amp;&amp; featureInput._meta.evaluationDetails.metrics;
+
+    return metrics &amp;&amp; metrics.indexOf("864066e7a3d64210883c25d1d71e61e7") !== -1; //check for capability id of the metric
+})(featureInput, previousFeatureOutputs);]]&gt;&lt;/applicability_script&gt;&lt;applicability_type&gt;script&lt;/applicability_type&gt;&lt;delay_output_processing&gt;false&lt;/delay_output_processing&gt;&lt;depends_on/&gt;&lt;depends_on_list&gt;fc007201ebd512108c58f55cbad0cdb6&lt;/depends_on_list&gt;&lt;error_policy&gt;continue_service_plan_execution&lt;/error_policy&gt;&lt;feature display_value="3601262ba3d64210883c25d1d71e615c"&gt;34007201ebd512108c58f55cbad0cd79&lt;/feature&gt;&lt;return_request&gt;false&lt;/return_request&gt;&lt;service_plan display_value="___$y$t3m_bu1163r___-5b5f2e4deb9512108c58f55cbad0cd93, 02efeacdeb9512108c58f55cbad0cda6, cbf929b27fe242100a03b6257d866548, 8cfd644f7ffe02100a03b6257d8665c8, 3601262ba3d64210883c25d1d71e615c, a5d3dae1a"&gt;b4007201ebd512108c58f55cbad0cdb1&lt;/service_plan&gt;&lt;sys_class_name&gt;one_api_service_plan_feature&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:20:15&lt;/sys_created_on&gt;&lt;sys_id&gt;74007201ebd512108c58f55cbad0cdca&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;___$y$t3m_bu1163r___-5b5f2e4deb9512108c58f55cbad0cd93, 02efeacdeb9512108c58f55cbad0cda6, cbf929b27fe242100a03b6257d866548, 8cfd644f7ffe02100a03b6257d8665c8, 3601262ba3d64210883c25d1d71e615c, a5d3dae1a: 3601262ba3d64210883c25d1d71e615c&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;one_api_service_plan_feature_74007201ebd512108c58f55cbad0cdca&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:20:15&lt;/sys_updated_on&gt;&lt;timeout_policy&gt;continue_service_plan_execution&lt;/timeout_policy&gt;&lt;timeout_sec&gt;60&lt;/timeout_sec&gt;&lt;/one_api_service_plan_feature&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-107484167</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>6a14f2c9ebd512108c58f55cbad0cdd3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919fb5150000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>___$y$t3m_bu1163r___-5b5f2e4deb9512108c58f55cbad0cd93, 02efeacdeb9512108c58f55cbad0cda6, cbf929b27fe</target_name>
+<type>One API Service Plan Feature</type>
+<update_domain>global</update_domain>
+<update_guid>f40072011ad512105a8ca42abdff43cb</update_guid>
+<update_guid_history>f40072011ad512105a8ca42abdff43cb:-107484167</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_generative_ai_config_9b5f2e4deb9512108c58f55cbad0cda9</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_generative_ai_config"><sys_generative_ai_config action="INSERT_OR_UPDATE"><active>true</active><additional_configurations>{}</additional_configurations><definition>5b5f2e4deb9512108c58f55cbad0cd93</definition><definition_table>sys_one_extend_capability_definition</definition_table><max_tokens>1000</max_tokens><min_word_count>-1</min_word_count><model>llm_generic</model><name>Prompt name</name><parent/><prompt>You are a customer service representative. Summarize the child incidents of the below given parent incident. The summary should contain key issues and impact across the child incidents, highlighting any patterns, recurring problems, or significant outliers.
+When summarizing, please consider the following:
+Common Issues: Identify and summarize any recurring or common issues among the child incidents.
+Overall Impact: Describe the collective impact of the child incidents on the organization or users.
+Patterns and Trends: Highlight any noticeable patterns or trends from the child incidents.
+Notable Incidents: Mention any particularly severe or unusual incidents that stand out.
+Resolution Summary: Provide a brief overview of the resolutions or steps taken, if available.
+You are optionally given the following details from the incident:
+Parent incident short description: {{incident.short_description}}
+Parent incident description: {{incident.description}}
+Here are the child incident details: {{IncidentJournalFetcher.output}}</prompt><prompt_template_role>user</prompt_template_role><request_tokens>6942</request_tokens><state>published</state><sys_class_name>sys_generative_ai_config</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:17:25</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9b5f2e4deb9512108c58f55cbad0cda9</sys_id><sys_mod_count>3</sys_mod_count><sys_name>5b5f2e4deb9512108c58f55cbad0cd93</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_generative_ai_config_9b5f2e4deb9512108c58f55cbad0cda9</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:22:40</sys_updated_on><temperature>0.2</temperature><version>1</version></sys_generative_ai_config></record_update>]]></payload>
+<payload_hash>147631172</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>6a14f6c9ebd512108c58f55cbad0cd54</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19291a1ec8c0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>5b5f2e4deb9512108c58f55cbad0cd93</target_name>
+<type>Generative AI Configuration</type>
+<update_domain>global</update_domain>
+<update_guid>9c90fe41d4d51210335ba43d18c55dcb</update_guid>
+<update_guid_history>9c90fe41d4d51210335ba43d18c55dcb:147631172,1440fe01b0d51210774b549480eb7fa2:-1297760979,c000368d45951210cec1b04e71ff5228:125429170,9b5f2e4d20951210446ccfeaa265e7ae:-1466176563</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_definition_attribute_c2efeacdeb9512108c58f55cbad0cdb0</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_attribute"><sys_one_extend_definition_attribute action="INSERT_OR_UPDATE"><active>true</active><apply_filter>false</apply_filter><attribute_label/><capability display_value="df646dceeb5742100393f58abad0cd4e_Inciden">caefee4deb9512108c58f55cbad0cd89</capability><choice_list/><contains_large_input>false</contains_large_input><data_type>string</data_type><default_value/><definition/><description/><hidden>false</hidden><label>numberOfComments</label><mandatory>true</mandatory><name>numberOfComments</name><order>100</order><schema/><sys_class_name>sys_one_extend_definition_attribute</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:19:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c2efeacdeb9512108c58f55cbad0cdb0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>numberOfComments</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_one_extend_definition_attribute_c2efeacdeb9512108c58f55cbad0cdb0</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:19:47</sys_updated_on><translate>false</translate><truncate>false</truncate><type>input</type></sys_one_extend_definition_attribute><sys_translated_text action="delete_multiple" query="documentkey=c2efeacdeb9512108c58f55cbad0cdb0"/></record_update>]]></payload>
+<payload_hash>1640223859</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>6a14f6c9ebd512108c58f55cbad0cd57</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919f47b40000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>numberOfComments</target_name>
+<type>OneExtend Capability Attribute</type>
+<update_domain>global</update_domain>
+<update_guid>86efeacde99512100aba330a87e476b1</update_guid>
+<update_guid_history>86efeacde99512100aba330a87e476b1:1640223859</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_feature_34007201ebd512108c58f55cbad0cd79</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="one_api_feature"><one_api_feature action="INSERT_OR_UPDATE"><input_processor display_value="OneExtendGenericCapabilityRequestProcessor">a7eb538353111110c271ddeeff7b12a8</input_processor><name>3601262ba3d64210883c25d1d71e615c</name><output_processor/><short_description>Auto Generated </short_description><sys_class_name>one_api_feature</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:20:15</sys_created_on><sys_id>34007201ebd512108c58f55cbad0cd79</sys_id><sys_mod_count>0</sys_mod_count><sys_name>3601262ba3d64210883c25d1d71e615c</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>one_api_feature_34007201ebd512108c58f55cbad0cd79</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:20:15</sys_updated_on></one_api_feature></record_update>]]></payload>
+<payload_hash>-530052797</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>6e14f2c9ebd512108c58f55cbad0cdcf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919fb27e0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>3601262ba3d64210883c25d1d71e615c</target_name>
+<type>One API Feature</type>
+<update_domain>global</update_domain>
+<update_guid>3400720195d5121087a8a0fa04595e93</update_guid>
+<update_guid_history>3400720195d5121087a8a0fa04595e93:-530052797</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_service_plan_b4007201ebd512108c58f55cbad0cdb1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="one_api_service_plan"><one_api_service_plan action="INSERT_OR_UPDATE"><active>true</active><input_processor/><name>___$y$t3m_bu1163r___-5b5f2e4deb9512108c58f55cbad0cd93, 02efeacdeb9512108c58f55cbad0cda6, cbf929b27fe242100a03b6257d866548, 8cfd644f7ffe02100a03b6257d8665c8, 3601262ba3d64210883c25d1d71e615c, a5d3dae1a</name><output_processor display_value="OneExtendOutputProcessor">250bd34353111110c271ddeeff7b12da</output_processor><sys_class_name>one_api_service_plan</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:20:15</sys_created_on><sys_id>b4007201ebd512108c58f55cbad0cdb1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>___$y$t3m_bu1163r___-5b5f2e4deb9512108c58f55cbad0cd93, 02efeacdeb9512108c58f55cbad0cda6, cbf929b27fe242100a03b6257d866548, 8cfd644f7ffe02100a03b6257d8665c8, 3601262ba3d64210883c25d1d71e615c, a5d3dae1a</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>one_api_service_plan_b4007201ebd512108c58f55cbad0cdb1</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:20:15</sys_updated_on><timeout_ms>60000</timeout_ms></one_api_service_plan></record_update>]]></payload>
+<payload_hash>-554812809</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>6e14f2c9ebd512108c58f55cbad0cdd2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919fb4520000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>___$y$t3m_bu1163r___-5b5f2e4deb9512108c58f55cbad0cd93, 02efeacdeb9512108c58f55cbad0cda6, cbf929b27fe</target_name>
+<type>One API Service Plan</type>
+<update_domain>global</update_domain>
+<update_guid>7c00720142d51210e667e4f6911634b2</update_guid>
+<update_guid_history>7c00720142d51210e667e4f6911634b2:-554812809</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_definition_attribute_4eefeacdeb9512108c58f55cbad0cdad</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_attribute"><sys_one_extend_definition_attribute action="INSERT_OR_UPDATE"><active>true</active><apply_filter>false</apply_filter><attribute_label/><capability display_value="df646dceeb5742100393f58abad0cd4e_Inciden">caefee4deb9512108c58f55cbad0cd89</capability><choice_list/><contains_large_input>false</contains_large_input><data_type>string</data_type><default_value/><definition/><description/><hidden>false</hidden><label>incidentSysId</label><mandatory>true</mandatory><name>incidentSysId</name><order>100</order><schema/><sys_class_name>sys_one_extend_definition_attribute</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:19:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4eefeacdeb9512108c58f55cbad0cdad</sys_id><sys_mod_count>0</sys_mod_count><sys_name>incidentSysId</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_one_extend_definition_attribute_4eefeacdeb9512108c58f55cbad0cdad</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:19:47</sys_updated_on><translate>false</translate><truncate>false</truncate><type>input</type></sys_one_extend_definition_attribute><sys_translated_text action="delete_multiple" query="documentkey=4eefeacdeb9512108c58f55cbad0cdad"/></record_update>]]></payload>
+<payload_hash>1949205171</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>6e14f6c9ebd512108c58f55cbad0cd56</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919f47900000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>incidentSysId</target_name>
+<type>OneExtend Capability Attribute</type>
+<update_domain>global</update_domain>
+<update_guid>02efeacd90951210a3c2178eedd13daf</update_guid>
+<update_guid_history>02efeacd90951210a3c2178eedd13daf:1949205171</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ux_form_action_1c80ba41ebd512108c58f55cbad0cdcf</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_form_action"><sys_ux_form_action action="INSERT_OR_UPDATE"><action_type>ui_action</action_type><active>true</active><declarative_action/><description/><name>Summarize Child Incidents</name><specificity>20</specificity><sys_class_name>sys_ux_form_action</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:22:24</sys_created_on><sys_id>1c80ba41ebd512108c58f55cbad0cdcf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Summarize Child Incidents</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ux_form_action_1c80ba41ebd512108c58f55cbad0cdcf</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:22:24</sys_updated_on><table>incident</table><ui_action display_value="Summarize Child Incidents">1c80ba41ebd512108c58f55cbad0cdcc</ui_action></sys_ux_form_action><sys_translated_text action="delete_multiple" query="documentkey=1c80ba41ebd512108c58f55cbad0cdcf"/></record_update>]]></payload>
+<payload_hash>-1134260459</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>6e14f6c9ebd512108c58f55cbad0cd59</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19291a1ab610000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table>incident</table>
+<target_name>Summarize Child Incidents</target_name>
+<type>UX Form Actions</type>
+<update_domain>global</update_domain>
+<update_guid>5080ba41dfd51210c51b6ea2b293ecd1</update_guid>
+<update_guid_history>5080ba41dfd51210c51b6ea2b293ecd1:-1134260459</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_feature_provider_3c007201ebd512108c58f55cbad0cd96</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="one_api_feature_provider"&gt;&lt;one_api_feature_provider action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;feature display_value="a5d3dae1a3d20210883c25d1d71e6108"&gt;f4007201ebd512108c58f55cbad0cd94&lt;/feature&gt;&lt;feature_service display_value="OneExtendGenericProvider"&gt;5233278353111110c271ddeeff7b129b&lt;/feature_service&gt;&lt;feature_service_factory&gt;&lt;![CDATA[(function() { return new global.OneExtendGenericProvider(); })()]]&gt;&lt;/feature_service_factory&gt;&lt;name&gt;Faithfulness Metric provider&lt;/name&gt;&lt;short_description&gt;Auto Generated &lt;/short_description&gt;&lt;sys_class_name&gt;one_api_feature_provider&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:20:15&lt;/sys_created_on&gt;&lt;sys_id&gt;3c007201ebd512108c58f55cbad0cd96&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Faithfulness Metric provider&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;one_api_feature_provider_3c007201ebd512108c58f55cbad0cd96&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:20:15&lt;/sys_updated_on&gt;&lt;type&gt;FDIH Subflow&lt;/type&gt;&lt;type_document display_value="Azure OpenAI Chat Completions"&gt;a55c1c6f530221106b38ddeeff7b12b1&lt;/type_document&gt;&lt;/one_api_feature_provider&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1027913922</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>a214f2c9ebd512108c58f55cbad0cdd1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919fb34c0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>Faithfulness Metric provider</target_name>
+<type>One API Feature Provider</type>
+<update_domain>global</update_domain>
+<update_guid>34007201b1d512101bb4a8092c77fa98</update_guid>
+<update_guid_history>34007201b1d512101bb4a8092c77fa98:-1027913922</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_service_plan_feature_f8007201ebd512108c58f55cbad0cdc5</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="one_api_service_plan_feature"&gt;&lt;one_api_service_plan_feature action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applicability_condition/&gt;&lt;applicability_condition_table/&gt;&lt;applicability_script&gt;&lt;![CDATA[(function(featureInput, previousFeatureOutputs) {
+ /* customize condition logic here, return true or false */
+  if (typeof featureInput === "string") {
+ featureInput = JSON.parse(featureInput);
+    }
+
+    var metrics = featureInput &amp;&amp; featureInput._meta &amp;&amp; featureInput._meta.evaluationDetails &amp;&amp; featureInput._meta.evaluationDetails.metrics;
+
+    return metrics &amp;&amp; metrics.indexOf("a28f0e067f0202105bc49fbefc8665ec") !== -1; //check for capability id of the metric
+})(featureInput, previousFeatureOutputs);]]&gt;&lt;/applicability_script&gt;&lt;applicability_type&gt;script&lt;/applicability_type&gt;&lt;delay_output_processing&gt;false&lt;/delay_output_processing&gt;&lt;depends_on/&gt;&lt;depends_on_list&gt;fc007201ebd512108c58f55cbad0cdb6&lt;/depends_on_list&gt;&lt;error_policy&gt;continue_service_plan_execution&lt;/error_policy&gt;&lt;feature display_value="cbf929b27fe242100a03b6257d866548"&gt;a8007201ebd512108c58f55cbad0cd74&lt;/feature&gt;&lt;return_request&gt;false&lt;/return_request&gt;&lt;service_plan display_value="___$y$t3m_bu1163r___-5b5f2e4deb9512108c58f55cbad0cd93, 02efeacdeb9512108c58f55cbad0cda6, cbf929b27fe242100a03b6257d866548, 8cfd644f7ffe02100a03b6257d8665c8, 3601262ba3d64210883c25d1d71e615c, a5d3dae1a"&gt;b4007201ebd512108c58f55cbad0cdb1&lt;/service_plan&gt;&lt;sys_class_name&gt;one_api_service_plan_feature&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:20:15&lt;/sys_created_on&gt;&lt;sys_id&gt;f8007201ebd512108c58f55cbad0cdc5&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;___$y$t3m_bu1163r___-5b5f2e4deb9512108c58f55cbad0cd93, 02efeacdeb9512108c58f55cbad0cda6, cbf929b27fe242100a03b6257d866548, 8cfd644f7ffe02100a03b6257d8665c8, 3601262ba3d64210883c25d1d71e615c, a5d3dae1a: cbf929b27fe242100a03b6257d866548&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;one_api_service_plan_feature_f8007201ebd512108c58f55cbad0cdc5&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:20:15&lt;/sys_updated_on&gt;&lt;timeout_policy&gt;continue_service_plan_execution&lt;/timeout_policy&gt;&lt;timeout_sec&gt;60&lt;/timeout_sec&gt;&lt;/one_api_service_plan_feature&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-286684679</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>a214f2c9ebd512108c58f55cbad0cdd4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919fb4ca0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>___$y$t3m_bu1163r___-5b5f2e4deb9512108c58f55cbad0cd93, 02efeacdeb9512108c58f55cbad0cda6, cbf929b27fe</target_name>
+<type>One API Service Plan Feature</type>
+<update_domain>global</update_domain>
+<update_guid>7c0072016ad512106b5920ac0ca8f3c6</update_guid>
+<update_guid_history>7c0072016ad512106b5920ac0ca8f3c6:-286684679</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_gen_ai_feature_mapping_535f2e4deb9512108c58f55cbad0cd8e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_gen_ai_feature_mapping"><sys_gen_ai_feature_mapping action="INSERT_OR_UPDATE"><active>true</active><customer_updatable>true</customer_updatable><document>135fa64deb9512108c58f55cbad0cdb6</document><document_table>sys_one_extend_capability</document_table><feature_name>Summarize Child Incidents</feature_name><licensable>true</licensable><skip_on_group_call>false</skip_on_group_call><sys_class_name>sys_gen_ai_feature_mapping</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:17:25</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>535f2e4deb9512108c58f55cbad0cd8e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Summarize Child Incidents</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_gen_ai_feature_mapping_535f2e4deb9512108c58f55cbad0cd8e</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:17:25</sys_updated_on></sys_gen_ai_feature_mapping></record_update>]]></payload>
+<payload_hash>-379374013</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>a214f6c9ebd512108c58f55cbad0cd55</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919d1b820000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>Summarize Child Incidents</target_name>
+<type>Generative AI Feature Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>d75f2e4d03951210acd76fa1c00c1f8f</update_guid>
+<update_guid_history>d75f2e4d03951210acd76fa1c00c1f8f:-379374013</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_definition_config_1b5f2e4deb9512108c58f55cbad0cd94</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_config"><sys_one_extend_definition_config action="INSERT_OR_UPDATE"><active>true</active><capability display_value="Summarize Child Incidents">135fa64deb9512108c58f55cbad0cdb6</capability><default>true</default><definition display_value="Summarize Child Incidents">5b5f2e4deb9512108c58f55cbad0cd93</definition><enable_large_input_support>false</enable_large_input_support><sys_class_name>sys_one_extend_definition_config</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:17:25</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1b5f2e4deb9512108c58f55cbad0cd94</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_one_extend_definition_config_1b5f2e4deb9512108c58f55cbad0cd94</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:17:25</sys_updated_on></sys_one_extend_definition_config></record_update>]]></payload>
+<payload_hash>-1217650293</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>a214f6c9ebd512108c58f55cbad0cd58</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919d1c6e0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name/>
+<type>OneExtend Definition Config</type>
+<update_domain>global</update_domain>
+<update_guid>df5f2e4df6951210e26a73e252c141a7</update_guid>
+<update_guid_history>df5f2e4df6951210e26a73e252c141a7:-1217650293,d35f2e4dc4951210044db4bc62a83396:-1699641782</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_feature_c6c07e81ebd512108c58f55cbad0cde5</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="one_api_feature"><one_api_feature action="INSERT_OR_UPDATE"><input_processor display_value="OneExtendGenericCapabilityRequestProcessor">a7eb538353111110c271ddeeff7b12a8</input_processor><name>5b5f2e4deb9512108c58f55cbad0cd93</name><output_processor/><short_description>Auto Generated </short_description><sys_class_name>one_api_feature</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:23:36</sys_created_on><sys_id>c6c07e81ebd512108c58f55cbad0cde5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>5b5f2e4deb9512108c58f55cbad0cd93</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>one_api_feature_c6c07e81ebd512108c58f55cbad0cde5</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:23:36</sys_updated_on></one_api_feature></record_update>]]></payload>
+<payload_hash>572659207</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>a614f2c9ebd512108c58f55cbad0cdd0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19291a2c6690000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>5b5f2e4deb9512108c58f55cbad0cd93</target_name>
+<type>One API Feature</type>
+<update_domain>global</update_domain>
+<update_guid>c2c07e817bd512101091fe72dd093be7</update_guid>
+<update_guid_history>c2c07e817bd512101091fe72dd093be7:572659207</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_service_plan_feature_4ec0be81ebd512108c58f55cbad0cd94</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="one_api_service_plan_feature"&gt;&lt;one_api_service_plan_feature action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applicability_condition/&gt;&lt;applicability_condition_table/&gt;&lt;applicability_script&gt;&lt;![CDATA[(function(featureInput, previousFeatureOutputs) {  
+	/* customize condition logic here, return true or false */  
+	return true;
+  })(featureInput, previousFeatureOutputs);]]&gt;&lt;/applicability_script&gt;&lt;applicability_type&gt;script&lt;/applicability_type&gt;&lt;delay_output_processing&gt;false&lt;/delay_output_processing&gt;&lt;depends_on/&gt;&lt;depends_on_list/&gt;&lt;error_policy&gt;continue_service_plan_execution&lt;/error_policy&gt;&lt;feature display_value="02efeacdeb9512108c58f55cbad0cda6"&gt;0ac07e81ebd512108c58f55cbad0cde8&lt;/feature&gt;&lt;return_request&gt;false&lt;/return_request&gt;&lt;service_plan display_value="___$y$t3m_bu1163r___-5b5f2e4deb9512108c58f55cbad0cd93, 02efeacdeb9512108c58f55cbad0cda6-default"&gt;8ec0be81ebd512108c58f55cbad0cd91&lt;/service_plan&gt;&lt;sys_class_name&gt;one_api_service_plan_feature&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:23:37&lt;/sys_created_on&gt;&lt;sys_id&gt;4ec0be81ebd512108c58f55cbad0cd94&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;___$y$t3m_bu1163r___-5b5f2e4deb9512108c58f55cbad0cd93, 02efeacdeb9512108c58f55cbad0cda6-default: 02efeacdeb9512108c58f55cbad0cda6&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;one_api_service_plan_feature_4ec0be81ebd512108c58f55cbad0cd94&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:23:37&lt;/sys_updated_on&gt;&lt;timeout_policy&gt;continue_service_plan_execution&lt;/timeout_policy&gt;&lt;timeout_sec&gt;60&lt;/timeout_sec&gt;&lt;/one_api_service_plan_feature&gt;&lt;/record_update&gt;</payload>
+<payload_hash>281241547</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>a614f2c9ebd512108c58f55cbad0cdd3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19291a2c8cc0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>___$y$t3m_bu1163r___-5b5f2e4deb9512108c58f55cbad0cd93, 02efeacdeb9512108c58f55cbad0cda6-default: 02e</target_name>
+<type>One API Service Plan Feature</type>
+<update_domain>global</update_domain>
+<update_guid>c6c0be81a8d51210ae94d242dff44f96</update_guid>
+<update_guid_history>c6c0be81a8d51210ae94d242dff44f96:281241547</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sn_nowassist_skill_family_b1707a41ebd512108c58f55cbad0cdc5</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sn_nowassist_skill_family"&gt;&lt;sn_nowassist_skill_family action="INSERT_OR_UPDATE"&gt;&lt;category&gt;custom&lt;/category&gt;&lt;description&gt;&lt;![CDATA[Summarize Child Incident]]&gt;&lt;/description&gt;&lt;image_url&gt;images/custom-feature-image.svg&lt;/image_url&gt;&lt;name&gt;Summarize Child INC&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;parent display_value="ITSM"&gt;1ebe4cd7a320311079f66bcf26fcda0f&lt;/parent&gt;&lt;preview_image&gt;images/custom-feature-background-image.svg&lt;/preview_image&gt;&lt;sub_title/&gt;&lt;sys_class_name&gt;sn_nowassist_skill_family&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:22:14&lt;/sys_created_on&gt;&lt;sys_id&gt;b1707a41ebd512108c58f55cbad0cdc5&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Summarize Child INC&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sn_nowassist_skill_family_b1707a41ebd512108c58f55cbad0cdc5&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:22:14&lt;/sys_updated_on&gt;&lt;type&gt;feature&lt;/type&gt;&lt;/sn_nowassist_skill_family&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=b1707a41ebd512108c58f55cbad0cdc5"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1433605800</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>a614f6c9ebd512108c58f55cbad0cd54</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19291a185600000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>Summarize Child INC</target_name>
+<type>Now Assist Skill Family</type>
+<update_domain>global</update_domain>
+<update_guid>f9707a4176d51210be4cd35afa0ebcc6</update_guid>
+<update_guid_history>f9707a4176d51210be4cd35afa0ebcc6:1433605800</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_definition_attribute_a75f2e4deb9512108c58f55cbad0cdb7</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_attribute"><sys_one_extend_definition_attribute action="INSERT_OR_UPDATE"><active>true</active><apply_filter>false</apply_filter><attribute_label/><capability display_value="Summarize Child Incidents">135fa64deb9512108c58f55cbad0cdb6</capability><choice_list/><contains_large_input>false</contains_large_input><data_type>string</data_type><default_value/><definition/><description>Response Text</description><hidden>false</hidden><label>response</label><mandatory>false</mandatory><name>response</name><order>100</order><schema/><sys_class_name>sys_one_extend_definition_attribute</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:17:26</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a75f2e4deb9512108c58f55cbad0cdb7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>response</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_one_extend_definition_attribute_a75f2e4deb9512108c58f55cbad0cdb7</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:17:26</sys_updated_on><translate>false</translate><truncate>false</truncate><type>output</type></sys_one_extend_definition_attribute><sys_translated_text action="delete_multiple" query="documentkey=a75f2e4deb9512108c58f55cbad0cdb7"/></record_update>]]></payload>
+<payload_hash>1354735829</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>a614f6c9ebd512108c58f55cbad0cd57</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919d1e8b0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>response</target_name>
+<type>OneExtend Capability Attribute</type>
+<update_domain>global</update_domain>
+<update_guid>6b5f2e4dca95121082fe7b23513409b8</update_guid>
+<update_guid_history>6b5f2e4dca95121082fe7b23513409b8:1354735829</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_feature_0ac07e81ebd512108c58f55cbad0cde8</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="one_api_feature"><one_api_feature action="INSERT_OR_UPDATE"><input_processor display_value="OneExtendGenericCapabilityRequestProcessor">a7eb538353111110c271ddeeff7b12a8</input_processor><name>02efeacdeb9512108c58f55cbad0cda6</name><output_processor/><short_description>Auto Generated </short_description><sys_class_name>one_api_feature</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:23:36</sys_created_on><sys_id>0ac07e81ebd512108c58f55cbad0cde8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>02efeacdeb9512108c58f55cbad0cda6</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>one_api_feature_0ac07e81ebd512108c58f55cbad0cde8</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:23:36</sys_updated_on></one_api_feature></record_update>]]></payload>
+<payload_hash>1205403643</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>aa14f2c9ebd512108c58f55cbad0cdcf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19291a2c69a0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>02efeacdeb9512108c58f55cbad0cda6</target_name>
+<type>One API Feature</type>
+<update_domain>global</update_domain>
+<update_guid>8ac07e8114d5121002298f8a82f4b6e9</update_guid>
+<update_guid_history>8ac07e8114d5121002298f8a82f4b6e9:1205403643</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_service_plan_8ec0be81ebd512108c58f55cbad0cd91</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="one_api_service_plan"><one_api_service_plan action="INSERT_OR_UPDATE"><active>true</active><input_processor/><name>___$y$t3m_bu1163r___-5b5f2e4deb9512108c58f55cbad0cd93, 02efeacdeb9512108c58f55cbad0cda6-default</name><output_processor display_value="OneExtendOutputProcessor">250bd34353111110c271ddeeff7b12da</output_processor><sys_class_name>one_api_service_plan</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:23:37</sys_created_on><sys_id>8ec0be81ebd512108c58f55cbad0cd91</sys_id><sys_mod_count>0</sys_mod_count><sys_name>___$y$t3m_bu1163r___-5b5f2e4deb9512108c58f55cbad0cd93, 02efeacdeb9512108c58f55cbad0cda6-default</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>one_api_service_plan_8ec0be81ebd512108c58f55cbad0cd91</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:23:37</sys_updated_on><timeout_ms>60000</timeout_ms></one_api_service_plan></record_update>]]></payload>
+<payload_hash>-1416184405</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>aa14f2c9ebd512108c58f55cbad0cdd2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19291a2c8940000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>___$y$t3m_bu1163r___-5b5f2e4deb9512108c58f55cbad0cd93, 02efeacdeb9512108c58f55cbad0cda6-default</target_name>
+<type>One API Service Plan</type>
+<update_domain>global</update_domain>
+<update_guid>0ac0be81f9d5121021f85f9f91233093</update_guid>
+<update_guid_history>0ac0be81f9d5121021f85f9f91233093:-1416184405</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_definition_attribute_3a8fee4deb9512108c58f55cbad0cd96</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_attribute"><sys_one_extend_definition_attribute action="INSERT_OR_UPDATE"><active>true</active><apply_filter>false</apply_filter><attribute_label/><capability display_value="Summarize Child Incidents">135fa64deb9512108c58f55cbad0cdb6</capability><choice_list/><contains_large_input>false</contains_large_input><data_type>glide_record</data_type><default_value>INC0000010</default_value><definition/><description>Incident</description><hidden>false</hidden><label>Incident</label><mandatory>false</mandatory><name>incident</name><order>100</order><schema>{"tableName":"incident","sysId":"46b9490da9fe1981003c938dab89bda3"}</schema><sys_class_name>sys_one_extend_definition_attribute</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:18:13</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3a8fee4deb9512108c58f55cbad0cd96</sys_id><sys_mod_count>0</sys_mod_count><sys_name>incident</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_one_extend_definition_attribute_3a8fee4deb9512108c58f55cbad0cd96</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:18:13</sys_updated_on><translate>false</translate><truncate>false</truncate><type>input</type></sys_one_extend_definition_attribute><sys_translated_text action="delete_multiple" query="documentkey=3a8fee4deb9512108c58f55cbad0cd96"/></record_update>]]></payload>
+<payload_hash>-397541295</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>aa14f6c9ebd512108c58f55cbad0cd56</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919dd6050000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>incident</target_name>
+<type>OneExtend Capability Attribute</type>
+<update_domain>global</update_domain>
+<update_guid>cf8fee4d76951210b066143fea6aec97</update_guid>
+<update_guid_history>cf8fee4d76951210b066143fea6aec97:-397541295</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_action_1c80ba41ebd512108c58f55cbad0cdcc</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_action"&gt;&lt;sys_ui_action action="INSERT_OR_UPDATE"&gt;&lt;action_name/&gt;&lt;active&gt;true&lt;/active&gt;&lt;client&gt;false&lt;/client&gt;&lt;client_script_v2/&gt;&lt;comments/&gt;&lt;condition&gt;new sn_nowassist_admin.NowAssistSkillConfig().isSkillConfigurationActive('235f2e4deb9512108c58f55cbad0cdbf')&lt;/condition&gt;&lt;form_action&gt;true&lt;/form_action&gt;&lt;form_button&gt;true&lt;/form_button&gt;&lt;form_button_v2&gt;true&lt;/form_button_v2&gt;&lt;form_context_menu&gt;false&lt;/form_context_menu&gt;&lt;form_link&gt;false&lt;/form_link&gt;&lt;form_menu_button_v2&gt;false&lt;/form_menu_button_v2&gt;&lt;form_style/&gt;&lt;format_for_configurable_workspace&gt;false&lt;/format_for_configurable_workspace&gt;&lt;hint/&gt;&lt;isolate_script&gt;false&lt;/isolate_script&gt;&lt;list_action&gt;false&lt;/list_action&gt;&lt;list_banner_button&gt;false&lt;/list_banner_button&gt;&lt;list_button&gt;false&lt;/list_button&gt;&lt;list_choice&gt;false&lt;/list_choice&gt;&lt;list_context_menu&gt;false&lt;/list_context_menu&gt;&lt;list_link&gt;false&lt;/list_link&gt;&lt;list_save_with_form_button&gt;false&lt;/list_save_with_form_button&gt;&lt;list_style/&gt;&lt;messages/&gt;&lt;name&gt;Summarize Child Incidents&lt;/name&gt;&lt;onclick/&gt;&lt;order&gt;100&lt;/order&gt;&lt;script&gt;&lt;![CDATA[var inputsPayload = {};
+// incident is a input of type: glide_record
+inputsPayload['incident'] = {
+  tableName: 'incident',
+  sysId: current.getValue('sys_id'),
+  queryString: ''
+};
+
+var request = {
+	executionRequests: [{
+		payload: inputsPayload,
+		capabilityId: '135fa64deb9512108c58f55cbad0cdb6',
+		meta: {
+			skillConfigId: '235f2e4deb9512108c58f55cbad0cdbf'
+		}
+	}], 
+	mode: 'sync' 
+};
+
+try {
+	gs.addInfoMessage(JSON.stringify(sn_one_extend.OneExtendUtil.execute(request)));
+} catch(e) {
+	gs.error(e);
+	gs.addErrorMessage('Something went wrong while executing skill.');
+}
+action.setRedirectURL(current);]]&gt;&lt;/script&gt;&lt;show_insert&gt;true&lt;/show_insert&gt;&lt;show_multiple_update&gt;false&lt;/show_multiple_update&gt;&lt;show_query&gt;false&lt;/show_query&gt;&lt;show_update&gt;true&lt;/show_update&gt;&lt;sys_class_name&gt;sys_ui_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:22:24&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;1c80ba41ebd512108c58f55cbad0cdcc&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Summarize Child Incidents&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_action_1c80ba41ebd512108c58f55cbad0cdcc&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:23:04&lt;/sys_updated_on&gt;&lt;table&gt;incident&lt;/table&gt;&lt;ui11_compatible&gt;true&lt;/ui11_compatible&gt;&lt;ui16_compatible&gt;false&lt;/ui16_compatible&gt;&lt;/sys_ui_action&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-902237844</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>aa14f6c9ebd512108c58f55cbad0cd59</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19291a247750000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table>incident</table>
+<target_name>Summarize Child Incidents</target_name>
+<type>UI Action</type>
+<update_domain>global</update_domain>
+<update_guid>06a076810ad512104abc2e08f50e2832</update_guid>
+<update_guid_history>06a076810ad512104abc2e08f50e2832:-902237844,d480ba4173d51210965caa3e37ed31ce:-1472488743</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_feature_provider_7c007201ebd512108c58f55cbad0cd9b</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="one_api_feature_provider"&gt;&lt;one_api_feature_provider action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;feature display_value="8cfd644f7ffe02100a03b6257d8665c8"&gt;ec007201ebd512108c58f55cbad0cd76&lt;/feature&gt;&lt;feature_service display_value="OneExtendGenericProvider"&gt;5233278353111110c271ddeeff7b129b&lt;/feature_service&gt;&lt;feature_service_factory&gt;&lt;![CDATA[(function() { return new global.OneExtendGenericProvider(); })()]]&gt;&lt;/feature_service_factory&gt;&lt;name&gt;Fluency Metric provider&lt;/name&gt;&lt;short_description&gt;Auto Generated &lt;/short_description&gt;&lt;sys_class_name&gt;one_api_feature_provider&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:20:15&lt;/sys_created_on&gt;&lt;sys_id&gt;7c007201ebd512108c58f55cbad0cd9b&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Fluency Metric provider&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;one_api_feature_provider_7c007201ebd512108c58f55cbad0cd9b&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:20:15&lt;/sys_updated_on&gt;&lt;type&gt;FDIH Subflow&lt;/type&gt;&lt;type_document display_value="Azure OpenAI Chat Completions"&gt;a55c1c6f530221106b38ddeeff7b12b1&lt;/type_document&gt;&lt;/one_api_feature_provider&gt;&lt;/record_update&gt;</payload>
+<payload_hash>231565805</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>ae14f2c9ebd512108c58f55cbad0cdd1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919fb3930000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>Fluency Metric provider</target_name>
+<type>One API Feature Provider</type>
+<update_domain>global</update_domain>
+<update_guid>bc007201a3d51210425cc61162c5549c</update_guid>
+<update_guid_history>bc007201a3d51210425cc61162c5549c:231565805</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_capability_caefee4deb9512108c58f55cbad0cd89</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_capability"><sys_one_extend_capability action="INSERT_OR_UPDATE"><active>true</active><description/><external>true</external><name>df646dceeb5742100393f58abad0cd4e_Inciden</name><sys_class_name>sys_one_extend_capability</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:19:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>caefee4deb9512108c58f55cbad0cd89</sys_id><sys_mod_count>0</sys_mod_count><sys_name>df646dceeb5742100393f58abad0cd4e_Inciden</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_one_extend_capability_caefee4deb9512108c58f55cbad0cd89</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:19:47</sys_updated_on><type>datasource</type></sys_one_extend_capability><sys_translated_text action="delete_multiple" query="documentkey=caefee4deb9512108c58f55cbad0cd89"/></record_update>]]></payload>
+<payload_hash>1092430329</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>ae14f6c9ebd512108c58f55cbad0cd55</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919f467f0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>df646dceeb5742100393f58abad0cd4e_Inciden</target_name>
+<type>OneExtend Capability</type>
+<update_domain>global</update_domain>
+<update_guid>42efee4d0195121076006883cc55808b</update_guid>
+<update_guid_history>42efee4d0195121076006883cc55808b:1092430329</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_resource_attribute_mapping_06efeacdeb9512108c58f55cbad0cdd3</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_one_extend_resource_attribute_mapping"&gt;&lt;sys_one_extend_resource_attribute_mapping action="INSERT_OR_UPDATE"&gt;&lt;attribute_value_script&gt;&lt;![CDATA[(function execute(payload) {  
+	// payload is stringified and contains _meta  
+	// return value for the attribute  
+	return '';
+})(payload);]]&gt;&lt;/attribute_value_script&gt;&lt;attribute_value_template&gt;5&lt;/attribute_value_template&gt;&lt;attribute_value_type&gt;template&lt;/attribute_value_type&gt;&lt;resource_attribute_name display_value="numberOfComments"&gt;c2efeacdeb9512108c58f55cbad0cdb0&lt;/resource_attribute_name&gt;&lt;resource_mapping display_value="IncidentJournalFetcher"&gt;8eefeacdeb9512108c58f55cbad0cdcd&lt;/resource_mapping&gt;&lt;sys_class_name&gt;sys_one_extend_resource_attribute_mapping&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:19:48&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;06efeacdeb9512108c58f55cbad0cdd3&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_one_extend_resource_attribute_mapping_06efeacdeb9512108c58f55cbad0cdd3&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:19:48&lt;/sys_updated_on&gt;&lt;/sys_one_extend_resource_attribute_mapping&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-907661821</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>ae14f6c9ebd512108c58f55cbad0cd58</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919f497a0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name/>
+<type>OneExtend Resource Attribute Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>0aefeacd1895121015f21964314bdcd4</update_guid>
+<update_guid_history>0aefeacd1895121015f21964314bdcd4:-907661821</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_feature_a8007201ebd512108c58f55cbad0cd74</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="one_api_feature"><one_api_feature action="INSERT_OR_UPDATE"><input_processor display_value="OneExtendGenericCapabilityRequestProcessor">a7eb538353111110c271ddeeff7b12a8</input_processor><name>cbf929b27fe242100a03b6257d866548</name><output_processor/><short_description>Auto Generated </short_description><sys_class_name>one_api_feature</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:20:14</sys_created_on><sys_id>a8007201ebd512108c58f55cbad0cd74</sys_id><sys_mod_count>0</sys_mod_count><sys_name>cbf929b27fe242100a03b6257d866548</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>one_api_feature_a8007201ebd512108c58f55cbad0cd74</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:20:14</sys_updated_on></one_api_feature></record_update>]]></payload>
+<payload_hash>303358375</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>e214f2c9ebd512108c58f55cbad0cdd0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919fb18b0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>cbf929b27fe242100a03b6257d866548</target_name>
+<type>One API Feature</type>
+<update_domain>global</update_domain>
+<update_guid>2c0072018ad5121016fc63734377b275</update_guid>
+<update_guid_history>2c0072018ad5121016fc63734377b275:303358375</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_service_plan_feature_30007201ebd512108c58f55cbad0cdc8</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="one_api_service_plan_feature"&gt;&lt;one_api_service_plan_feature action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applicability_condition/&gt;&lt;applicability_condition_table/&gt;&lt;applicability_script&gt;&lt;![CDATA[(function(featureInput, previousFeatureOutputs) {
+ /* customize condition logic here, return true or false */
+  if (typeof featureInput === "string") {
+ featureInput = JSON.parse(featureInput);
+    }
+
+    var metrics = featureInput &amp;&amp; featureInput._meta &amp;&amp; featureInput._meta.evaluationDetails &amp;&amp; featureInput._meta.evaluationDetails.metrics;
+
+    return metrics &amp;&amp; metrics.indexOf("63015aeda3920210883c25d1d71e6124") !== -1; //check for capability id of the metric
+})(featureInput, previousFeatureOutputs);]]&gt;&lt;/applicability_script&gt;&lt;applicability_type&gt;script&lt;/applicability_type&gt;&lt;delay_output_processing&gt;false&lt;/delay_output_processing&gt;&lt;depends_on/&gt;&lt;depends_on_list&gt;fc007201ebd512108c58f55cbad0cdb6&lt;/depends_on_list&gt;&lt;error_policy&gt;continue_service_plan_execution&lt;/error_policy&gt;&lt;feature display_value="a5d3dae1a3d20210883c25d1d71e6108"&gt;f4007201ebd512108c58f55cbad0cd94&lt;/feature&gt;&lt;return_request&gt;false&lt;/return_request&gt;&lt;service_plan display_value="___$y$t3m_bu1163r___-5b5f2e4deb9512108c58f55cbad0cd93, 02efeacdeb9512108c58f55cbad0cda6, cbf929b27fe242100a03b6257d866548, 8cfd644f7ffe02100a03b6257d8665c8, 3601262ba3d64210883c25d1d71e615c, a5d3dae1a"&gt;b4007201ebd512108c58f55cbad0cdb1&lt;/service_plan&gt;&lt;sys_class_name&gt;one_api_service_plan_feature&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:20:15&lt;/sys_created_on&gt;&lt;sys_id&gt;30007201ebd512108c58f55cbad0cdc8&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;___$y$t3m_bu1163r___-5b5f2e4deb9512108c58f55cbad0cd93, 02efeacdeb9512108c58f55cbad0cda6, cbf929b27fe242100a03b6257d866548, 8cfd644f7ffe02100a03b6257d8665c8, 3601262ba3d64210883c25d1d71e615c, a5d3dae1a: a5d3dae1a3d20210883c25d1d71e6108&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;one_api_service_plan_feature_30007201ebd512108c58f55cbad0cdc8&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:20:15&lt;/sys_updated_on&gt;&lt;timeout_policy&gt;continue_service_plan_execution&lt;/timeout_policy&gt;&lt;timeout_sec&gt;60&lt;/timeout_sec&gt;&lt;/one_api_service_plan_feature&gt;&lt;/record_update&gt;</payload>
+<payload_hash>446431403</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>e214f2c9ebd512108c58f55cbad0cdd3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919fb4ef0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>___$y$t3m_bu1163r___-5b5f2e4deb9512108c58f55cbad0cd93, 02efeacdeb9512108c58f55cbad0cda6, cbf929b27fe</target_name>
+<type>One API Service Plan Feature</type>
+<update_domain>global</update_domain>
+<update_guid>b0007201e2d5121029d56ff3490007c9</update_guid>
+<update_guid_history>b0007201e2d5121029d56ff3490007c9:446431403</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sn_nowassist_skill_config_var_set_9080ba41ebd512108c58f55cbad0cdd3</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_nowassist_skill_config_var_set"><sn_nowassist_skill_config_var_set action="INSERT_OR_UPDATE"><config_type display_value="Skill builder Delivery step">7dfdff5893b64210aa5730f164891837</config_type><description/><hide_step>false</hide_step><name>__delivery_step__</name><order>100</order><parent/><screen_id/><screen_table>sys_ux_macroponent</screen_table><skill_config display_value="Summarize Child Incidents">235f2e4deb9512108c58f55cbad0cdbf</skill_config><step_completed>false</step_completed><sys_class_name>sn_nowassist_skill_config_var_set</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:22:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path/><sys_id>9080ba41ebd512108c58f55cbad0cdd3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>__delivery_step__</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sn_nowassist_skill_config_var_set_9080ba41ebd512108c58f55cbad0cdd3</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:22:24</sys_updated_on><title/><vars/></sn_nowassist_skill_config_var_set><sys_translated_text action="delete_multiple" query="documentkey=9080ba41ebd512108c58f55cbad0cdd3"/><sys_variable_value action="delete_multiple" query="document_key=9080ba41ebd512108c58f55cbad0cdd3"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sn_nowassist_skill_config_var_set</document><document_key>9080ba41ebd512108c58f55cbad0cdd3</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:22:24</sys_created_on><sys_id>1880ba41ebd512108c58f55cbad0cdd4</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:22:24</sys_updated_on><value>0</value><variable display_value="Enable NAP">ab5ef79893b64210aa5730f16489185a</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sn_nowassist_skill_config_var_set</document><document_key>9080ba41ebd512108c58f55cbad0cdd3</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:22:24</sys_created_on><sys_id>1c80ba41ebd512108c58f55cbad0cdd3</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:22:24</sys_updated_on><value>1</value><variable display_value="Enable UI Action">f09e3f9893b64210aa5730f16489189f</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sn_nowassist_skill_config_var_set</document><document_key>9080ba41ebd512108c58f55cbad0cdd3</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:22:24</sys_created_on><sys_id>5480ba41ebd512108c58f55cbad0cdd4</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:22:24</sys_updated_on><value>1c80ba41ebd512108c58f55cbad0cdcc</value><variable display_value="UI Action Id">4fee37d893b64210aa5730f164891896</variable></sys_variable_value></record_update>]]></payload>
+<payload_hash>533216564</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>e214f6c9ebd512108c58f55cbad0cd54</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19291a1abf40000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>__delivery_step__</target_name>
+<type>Now Assist Skill Config Var Set</type>
+<update_domain>global</update_domain>
+<update_guid>d480ba413cd512104724709750fc52d6</update_guid>
+<update_guid_history>d480ba413cd512104724709750fc52d6:533216564</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_definition_attribute_9b5f2e4deb9512108c58f55cbad0cdb2</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_attribute"><sys_one_extend_definition_attribute action="INSERT_OR_UPDATE"><active>true</active><apply_filter>false</apply_filter><attribute_label/><capability display_value="Summarize Child Incidents">135fa64deb9512108c58f55cbad0cdb6</capability><choice_list/><contains_large_input>false</contains_large_input><data_type>string</data_type><default_value/><definition/><description>Error Code</description><hidden>false</hidden><label>errorCode</label><mandatory>false</mandatory><name>errorcode</name><order>100</order><schema/><sys_class_name>sys_one_extend_definition_attribute</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:17:25</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9b5f2e4deb9512108c58f55cbad0cdb2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>errorcode</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_one_extend_definition_attribute_9b5f2e4deb9512108c58f55cbad0cdb2</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:17:25</sys_updated_on><translate>false</translate><truncate>false</truncate><type>output</type></sys_one_extend_definition_attribute><sys_translated_text action="delete_multiple" query="documentkey=9b5f2e4deb9512108c58f55cbad0cdb2"/></record_update>]]></payload>
+<payload_hash>517927134</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>e214f6c9ebd512108c58f55cbad0cd57</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919d1d530000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>errorcode</target_name>
+<type>OneExtend Capability Attribute</type>
+<update_domain>global</update_domain>
+<update_guid>5f5f2e4d8c95121097cf1da1cef8ddb3</update_guid>
+<update_guid_history>5f5f2e4d8c95121097cf1da1cef8ddb3:517927134</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_feature_provider_b0007201ebd512108c58f55cbad0cdaf</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="one_api_feature_provider"&gt;&lt;one_api_feature_provider action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;feature display_value="cbf929b27fe242100a03b6257d866548"&gt;a8007201ebd512108c58f55cbad0cd74&lt;/feature&gt;&lt;feature_service display_value="OneExtendGenericProvider"&gt;5233278353111110c271ddeeff7b129b&lt;/feature_service&gt;&lt;feature_service_factory&gt;&lt;![CDATA[(function() { return new global.OneExtendGenericProvider(); })()]]&gt;&lt;/feature_service_factory&gt;&lt;name&gt;Correctness Metric provider&lt;/name&gt;&lt;short_description&gt;Auto Generated &lt;/short_description&gt;&lt;sys_class_name&gt;one_api_feature_provider&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:20:15&lt;/sys_created_on&gt;&lt;sys_id&gt;b0007201ebd512108c58f55cbad0cdaf&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Correctness Metric provider&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;one_api_feature_provider_b0007201ebd512108c58f55cbad0cdaf&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:20:15&lt;/sys_updated_on&gt;&lt;type&gt;FDIH Subflow&lt;/type&gt;&lt;type_document display_value="Azure OpenAI Chat Completions"&gt;a55c1c6f530221106b38ddeeff7b12b1&lt;/type_document&gt;&lt;/one_api_feature_provider&gt;&lt;/record_update&gt;</payload>
+<payload_hash>877821389</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>e614f2c9ebd512108c58f55cbad0cdd2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919fb4200000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>Correctness Metric provider</target_name>
+<type>One API Feature Provider</type>
+<update_domain>global</update_domain>
+<update_guid>f00072019dd512102692f4bd3acc41b0</update_guid>
+<update_guid_history>f00072019dd512102692f4bd3acc41b0:877821389</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_definition_attribute_135f2e4deb9512108c58f55cbad0cdb5</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_attribute"><sys_one_extend_definition_attribute action="INSERT_OR_UPDATE"><active>true</active><apply_filter>false</apply_filter><attribute_label/><capability display_value="Summarize Child Incidents">135fa64deb9512108c58f55cbad0cdb6</capability><choice_list/><contains_large_input>false</contains_large_input><data_type>string</data_type><default_value/><definition/><description>Provider name</description><hidden>false</hidden><label>provider</label><mandatory>false</mandatory><name>provider</name><order>100</order><schema/><sys_class_name>sys_one_extend_definition_attribute</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:17:25</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>135f2e4deb9512108c58f55cbad0cdb5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>provider</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_one_extend_definition_attribute_135f2e4deb9512108c58f55cbad0cdb5</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:17:25</sys_updated_on><translate>false</translate><truncate>false</truncate><type>output</type></sys_one_extend_definition_attribute><sys_translated_text action="delete_multiple" query="documentkey=135f2e4deb9512108c58f55cbad0cdb5"/></record_update>]]></payload>
+<payload_hash>-1117432265</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>e614f6c9ebd512108c58f55cbad0cd56</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919d1d880000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>provider</target_name>
+<type>OneExtend Capability Attribute</type>
+<update_domain>global</update_domain>
+<update_guid>d35f2e4d7895121064d6f2c3abcce2b6</update_guid>
+<update_guid_history>d35f2e4d7895121064d6f2c3abcce2b6:-1117432265</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_df646dceeb5742100393f58abad0cd4e</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;
+&lt;access&gt;public&lt;/access&gt;
+&lt;active&gt;true&lt;/active&gt;
+&lt;api_name&gt;global.IncidentJournalFetcher&lt;/api_name&gt;
+&lt;caller_access/&gt;
+&lt;client_callable&gt;false&lt;/client_callable&gt;
+&lt;description/&gt;
+&lt;mobile_callable&gt;false&lt;/mobile_callable&gt;
+&lt;name&gt;IncidentJournalFetcher&lt;/name&gt;
+&lt;sandbox_callable&gt;false&lt;/sandbox_callable&gt;
+&lt;script&gt;&lt;![CDATA[var IncidentJournalFetcher = Class.create();
+IncidentJournalFetcher.prototype = {
+    initialize: function() {},
+    
+	getChildIncidentDetails: function(incidentSysId, numberOfComments) {
+        var result = {
+            childIncidents: [],
+        };
+		numberOfComments = Number(numberOfComments);
+		// Query for child incidents
+		var childIncidentsGr = new GlideRecord('incident');
+		childIncidentsGr.addQuery('parent_incident', incidentSysId);
+		childIncidentsGr.query();
+		// Process each child incident
+		while (childIncidentsGr.next()) {
+			result.childIncidents.push({
+				childIncidentSysId: childIncidentsGr.sys_id.toString(),
+				childIncidentNumber: childIncidentsGr.number.toString(),
+				childIncidentShortDescription: childIncidentsGr.short_description.toString(),
+				childIncidentDescription: childIncidentsGr.description.toString(),
+				// Fetch latest 3 comments and worknotes for the child incident
+				childIncidentComments : this.getLastNComments(childIncidentsGr.sys_id.toString(), numberOfComments),
+				childIncidentWorknotes : this.getLastNWorknotes(childIncidentsGr.sys_id.toString(), numberOfComments)
+            });
+        }
+		
+        return JSON.stringify(result);
+        //return result;
+    },
+
+
+
+
+    getLastNComments: function(incidentSysId, numberOfComments) {
+        var result = {
+            comments: [],
+        };
+
+        // Fetch the last N comments
+        var commentGr = new GlideRecord('sys_journal_field');
+        commentGr.addQuery('element_id', incidentSysId);
+        commentGr.addQuery('element', 'comments');
+        commentGr.orderByDesc('sys_created_on'); //sort the comments
+        commentGr.setLimit(numberOfComments); //fetch n comments
+        commentGr.query();
+
+        while (commentGr.next()) {
+            result.comments.push({
+                text: commentGr.value.toString(),
+                created_on: commentGr.sys_created_on.toString(),
+                created_by: commentGr.sys_created_by.toString()
+            });
+        }
+
+        return JSON.stringify(result.comments);
+        //return result;
+    },
+
+    getLastNWorknotes: function(incidentSysId, numberOfComments) {
+        var result = {
+            workNotes: [],
+        };
+
+        // Fetch the last N work notes
+        var workNotesGr = new GlideRecord('sys_journal_field');
+        workNotesGr.addQuery('element_id', incidentSysId);
+        workNotesGr.addQuery('element', 'work_notes');
+        workNotesGr.orderByDesc('sys_created_on');
+        workNotesGr.setLimit(numberOfComments);
+        workNotesGr.query();
+
+        while (workNotesGr.next()) {
+            result.workNotes.push({
+                text: workNotesGr.value.toString(),
+                created_on: workNotesGr.sys_created_on.toString(),
+                created_by: workNotesGr.sys_created_by.toString()
+            });
+        }
+
+        return JSON.stringify(result.workNotes);
+        //return result;
+    },
+
+    getLastNCommentsAndWorkNotes: function(incidentSysId, numberOfComments) {
+        var result = {
+            comments: [],
+            workNotes: []
+        };
+
+        // Fetch the last three comments
+        var commentGr = new GlideRecord('sys_journal_field');
+        commentGr.addQuery('element_id', incidentSysId);
+        commentGr.addQuery('element', 'comments');
+        commentGr.orderByDesc('sys_created_on');
+        commentGr.setLimit(numberOfComments);
+        commentGr.query();
+
+        while (commentGr.next()) {
+            result.comments.push({
+                text: commentGr.value.toString(),
+                created_on: commentGr.sys_created_on.toString(),
+                created_by: commentGr.sys_created_by.toString()
+            });
+        }
+
+        // Fetch the last three work notes
+        var workNotesGr = new GlideRecord('sys_journal_field');
+        workNotesGr.addQuery('element_id', incidentSysId);
+        workNotesGr.addQuery('element', 'work_notes');
+        workNotesGr.orderByDesc('sys_created_on');
+        workNotesGr.setLimit(numberOfComments);
+        workNotesGr.query();
+
+        while (workNotesGr.next()) {
+            result.workNotes.push({
+                text: workNotesGr.value.toString(),
+                created_on: workNotesGr.sys_created_on.toString(),
+                created_by: workNotesGr.sys_created_by.toString()
+            });
+        }
+
+        return JSON.stringify(result);
+        //return result;
+    },
+
+
+    type: 'IncidentJournalFetcher'
+};]]&gt;&lt;/script&gt;
+&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;
+&lt;sys_created_by&gt;sachin.modeel@snc&lt;/sys_created_by&gt;
+&lt;sys_created_on&gt;2024-07-11 06:19:35&lt;/sys_created_on&gt;
+&lt;sys_id&gt;df646dceeb5742100393f58abad0cd4e&lt;/sys_id&gt;
+&lt;sys_mod_count&gt;26&lt;/sys_mod_count&gt;
+&lt;sys_name&gt;IncidentJournalFetcher&lt;/sys_name&gt;
+&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;
+&lt;sys_policy/&gt;
+&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;
+&lt;sys_update_name&gt;sys_script_include_df646dceeb5742100393f58abad0cd4e&lt;/sys_update_name&gt;
+&lt;sys_updated_by&gt;dhruv.jain@snc&lt;/sys_updated_by&gt;
+&lt;sys_updated_on&gt;2024-07-12 05:22:08&lt;/sys_updated_on&gt;
+&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-94526420</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>e614f6c9ebd512108c58f55cbad0cd59</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19291adb92d0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>IncidentJournalFetcher</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>4583f289b0d51210f6c8811ee99b59df</update_guid>
+<update_guid_history>4583f289b0d51210f6c8811ee99b59df:-94526420,5d5780699885121035340b51e2eb8273:-94526420</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_feature_provider_78007201ebd512108c58f55cbad0cd99</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="one_api_feature_provider"&gt;&lt;one_api_feature_provider action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;feature display_value="3601262ba3d64210883c25d1d71e615c"&gt;34007201ebd512108c58f55cbad0cd79&lt;/feature&gt;&lt;feature_service display_value="OneExtendGenericProvider"&gt;5233278353111110c271ddeeff7b129b&lt;/feature_service&gt;&lt;feature_service_factory&gt;&lt;![CDATA[(function() { return new global.OneExtendGenericProvider(); })()]]&gt;&lt;/feature_service_factory&gt;&lt;name&gt;Helpfulness Metric provider&lt;/name&gt;&lt;short_description&gt;Auto Generated &lt;/short_description&gt;&lt;sys_class_name&gt;one_api_feature_provider&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:20:15&lt;/sys_created_on&gt;&lt;sys_id&gt;78007201ebd512108c58f55cbad0cd99&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Helpfulness Metric provider&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;one_api_feature_provider_78007201ebd512108c58f55cbad0cd99&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:20:15&lt;/sys_updated_on&gt;&lt;type&gt;FDIH Subflow&lt;/type&gt;&lt;type_document display_value="Azure OpenAI Chat Completions"&gt;a55c1c6f530221106b38ddeeff7b12b1&lt;/type_document&gt;&lt;/one_api_feature_provider&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-341546806</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>ea14f2c9ebd512108c58f55cbad0cdd1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919fb3700000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>Helpfulness Metric provider</target_name>
+<type>One API Feature Provider</type>
+<update_domain>global</update_domain>
+<update_guid>b800720189d51210e27a37173660e79a</update_guid>
+<update_guid_history>b800720189d51210e27a37173660e79a:-341546806</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_capability_135fa64deb9512108c58f55cbad0cdb6</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_capability"><sys_one_extend_capability action="INSERT_OR_UPDATE"><active>true</active><description>Summarize Child Incidents</description><external>true</external><name>Summarize Child Incidents</name><sys_class_name>sys_one_extend_capability</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:17:25</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>135fa64deb9512108c58f55cbad0cdb6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Summarize Child Incidents</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_one_extend_capability_135fa64deb9512108c58f55cbad0cdb6</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:17:25</sys_updated_on><type>skill</type></sys_one_extend_capability><sys_translated_text action="delete_multiple" query="documentkey=135fa64deb9512108c58f55cbad0cdb6"/></record_update>]]></payload>
+<payload_hash>62432033</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>ea14f6c9ebd512108c58f55cbad0cd55</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919d1b4b0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>Summarize Child Incidents</target_name>
+<type>OneExtend Capability</type>
+<update_domain>global</update_domain>
+<update_guid>d35fa64d8c951210d251a8c8d6fcc5b8</update_guid>
+<update_guid_history>d35fa64d8c951210d251a8c8d6fcc5b8:62432033</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_eval_strategy_2f5f2e4deb9512108c58f55cbad0cdda</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_eval_strategy"><sys_one_extend_eval_strategy action="INSERT_OR_UPDATE"><capability display_value="Summarize Child Incidents">135fa64deb9512108c58f55cbad0cdb6</capability><default>true</default><name>Default</name><skill_config_id>235f2e4deb9512108c58f55cbad0cdbf</skill_config_id><sys_class_name>sys_one_extend_eval_strategy</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:17:26</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2f5f2e4deb9512108c58f55cbad0cdda</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Default</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_one_extend_eval_strategy_2f5f2e4deb9512108c58f55cbad0cdda</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:17:26</sys_updated_on></sys_one_extend_eval_strategy></record_update>]]></payload>
+<payload_hash>1114051505</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>ea14f6c9ebd512108c58f55cbad0cd58</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919d1fc50000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>Default</target_name>
+<type>OneExtend Eval Strategy</type>
+<update_domain>global</update_domain>
+<update_guid>235f2e4ddc951210437e976caffafcdc</update_guid>
+<update_guid_history>235f2e4ddc951210437e976caffafcdc:1114051505</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_feature_f4007201ebd512108c58f55cbad0cd94</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="one_api_feature"><one_api_feature action="INSERT_OR_UPDATE"><input_processor display_value="OneExtendGenericCapabilityRequestProcessor">a7eb538353111110c271ddeeff7b12a8</input_processor><name>a5d3dae1a3d20210883c25d1d71e6108</name><output_processor/><short_description>Auto Generated </short_description><sys_class_name>one_api_feature</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:20:15</sys_created_on><sys_id>f4007201ebd512108c58f55cbad0cd94</sys_id><sys_mod_count>0</sys_mod_count><sys_name>a5d3dae1a3d20210883c25d1d71e6108</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>one_api_feature_f4007201ebd512108c58f55cbad0cd94</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:20:15</sys_updated_on></one_api_feature></record_update>]]></payload>
+<payload_hash>-2105324961</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>ee14f2c9ebd512108c58f55cbad0cdd0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919fb31a0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>a5d3dae1a3d20210883c25d1d71e6108</target_name>
+<type>One API Feature</type>
+<update_domain>global</update_domain>
+<update_guid>7800720128d512106d0be7ddb8cf7495</update_guid>
+<update_guid_history>7800720128d512106d0be7ddb8cf7495:-2105324961</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>one_api_service_plan_feature_b8007201ebd512108c58f55cbad0cdcc</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="one_api_service_plan_feature"&gt;&lt;one_api_service_plan_feature action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applicability_condition/&gt;&lt;applicability_condition_table/&gt;&lt;applicability_script&gt;&lt;![CDATA[(function(featureInput, previousFeatureOutputs) {
+ /* customize condition logic here, return true or false */
+  if (typeof featureInput === "string") {
+ featureInput = JSON.parse(featureInput);
+    }
+
+    var metrics = featureInput &amp;&amp; featureInput._meta &amp;&amp; featureInput._meta.evaluationDetails &amp;&amp; featureInput._meta.evaluationDetails.metrics;
+
+    return metrics &amp;&amp; metrics.indexOf("605d6c0f7ffe02100a03b6257d8665d3") !== -1; //check for capability id of the metric
+})(featureInput, previousFeatureOutputs);]]&gt;&lt;/applicability_script&gt;&lt;applicability_type&gt;script&lt;/applicability_type&gt;&lt;delay_output_processing&gt;false&lt;/delay_output_processing&gt;&lt;depends_on/&gt;&lt;depends_on_list&gt;fc007201ebd512108c58f55cbad0cdb6&lt;/depends_on_list&gt;&lt;error_policy&gt;continue_service_plan_execution&lt;/error_policy&gt;&lt;feature display_value="8cfd644f7ffe02100a03b6257d8665c8"&gt;ec007201ebd512108c58f55cbad0cd76&lt;/feature&gt;&lt;return_request&gt;false&lt;/return_request&gt;&lt;service_plan display_value="___$y$t3m_bu1163r___-5b5f2e4deb9512108c58f55cbad0cd93, 02efeacdeb9512108c58f55cbad0cda6, cbf929b27fe242100a03b6257d866548, 8cfd644f7ffe02100a03b6257d8665c8, 3601262ba3d64210883c25d1d71e615c, a5d3dae1a"&gt;b4007201ebd512108c58f55cbad0cdb1&lt;/service_plan&gt;&lt;sys_class_name&gt;one_api_service_plan_feature&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rishitha.reddy@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-15 19:20:15&lt;/sys_created_on&gt;&lt;sys_id&gt;b8007201ebd512108c58f55cbad0cdcc&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;___$y$t3m_bu1163r___-5b5f2e4deb9512108c58f55cbad0cd93, 02efeacdeb9512108c58f55cbad0cda6, cbf929b27fe242100a03b6257d866548, 8cfd644f7ffe02100a03b6257d8665c8, 3601262ba3d64210883c25d1d71e615c, a5d3dae1a: 8cfd644f7ffe02100a03b6257d8665c8&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;one_api_service_plan_feature_b8007201ebd512108c58f55cbad0cdcc&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rishitha.reddy@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-15 19:20:15&lt;/sys_updated_on&gt;&lt;timeout_policy&gt;continue_service_plan_execution&lt;/timeout_policy&gt;&lt;timeout_sec&gt;60&lt;/timeout_sec&gt;&lt;/one_api_service_plan_feature&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1312005987</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>ee14f2c9ebd512108c58f55cbad0cdd3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919fb53b0000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>___$y$t3m_bu1163r___-5b5f2e4deb9512108c58f55cbad0cd93, 02efeacdeb9512108c58f55cbad0cda6, cbf929b27fe</target_name>
+<type>One API Service Plan Feature</type>
+<update_domain>global</update_domain>
+<update_guid>3c0072012dd51210edcf1f6e8c4fe2cd</update_guid>
+<update_guid_history>3c0072012dd51210edcf1f6e8c4fe2cd:-1312005987</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_gen_ai_feature_mapping_46efee4deb9512108c58f55cbad0cd8c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_gen_ai_feature_mapping"><sys_gen_ai_feature_mapping action="INSERT_OR_UPDATE"><active>true</active><customer_updatable>true</customer_updatable><document>caefee4deb9512108c58f55cbad0cd89</document><document_table>sys_one_extend_capability</document_table><feature_name>df646dceeb5742100393f58abad0cd4e_Inciden</feature_name><licensable>false</licensable><skip_on_group_call>false</skip_on_group_call><sys_class_name>sys_gen_ai_feature_mapping</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:19:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>46efee4deb9512108c58f55cbad0cd8c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>df646dceeb5742100393f58abad0cd4e_Inciden</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_gen_ai_feature_mapping_46efee4deb9512108c58f55cbad0cd8c</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:19:47</sys_updated_on></sys_gen_ai_feature_mapping></record_update>]]></payload>
+<payload_hash>-1387268526</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>ee14f6c9ebd512108c58f55cbad0cd54</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919f46b00000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>df646dceeb5742100393f58abad0cd4e_Inciden</target_name>
+<type>Generative AI Feature Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>c6efee4d32951210d6cd1ee2be99c28d</update_guid>
+<update_guid_history>c6efee4d32951210d6cd1ee2be99c28d:-1387268526</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_definition_attribute_df5f2e4deb9512108c58f55cbad0cdaf</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_attribute"><sys_one_extend_definition_attribute action="INSERT_OR_UPDATE"><active>true</active><apply_filter>false</apply_filter><attribute_label/><capability display_value="Summarize Child Incidents">135fa64deb9512108c58f55cbad0cdb6</capability><choice_list/><contains_large_input>false</contains_large_input><data_type>string</data_type><default_value/><definition/><description>Error Message</description><hidden>false</hidden><label>error</label><mandatory>false</mandatory><name>error</name><order>100</order><schema/><sys_class_name>sys_one_extend_definition_attribute</sys_class_name><sys_created_by>rishitha.reddy@snc</sys_created_by><sys_created_on>2024-10-15 19:17:25</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>df5f2e4deb9512108c58f55cbad0cdaf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>error</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_one_extend_definition_attribute_df5f2e4deb9512108c58f55cbad0cdaf</sys_update_name><sys_updated_by>rishitha.reddy@snc</sys_updated_by><sys_updated_on>2024-10-15 19:17:25</sys_updated_on><translate>false</translate><truncate>false</truncate><type>output</type></sys_one_extend_definition_attribute><sys_translated_text action="delete_multiple" query="documentkey=df5f2e4deb9512108c58f55cbad0cdaf"/></record_update>]]></payload>
+<payload_hash>-1518891229</payload_hash>
+<remote_update_set display_value="Summarize Child Incidents">a614f2c9ebd512108c58f55cbad0cdcf</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rishitha.reddy@snc</sys_created_by>
+<sys_created_on>2024-10-15 19:38:07</sys_created_on>
+<sys_id>ee14f6c9ebd512108c58f55cbad0cd57</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192919d1d260000001</sys_recorded_at>
+<sys_updated_by>rishitha.reddy@snc</sys_updated_by>
+<sys_updated_on>2024-10-15 19:38:07</sys_updated_on>
+<table/>
+<target_name>error</target_name>
+<type>OneExtend Capability Attribute</type>
+<update_domain>global</update_domain>
+<update_guid>975f2e4dcc95121017e78f619a3ca4b1</update_guid>
+<update_guid_history>975f2e4dcc95121017e78f619a3ca4b1:-1518891229</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
